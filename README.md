@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Akshat Raj</h1>
+<h1 align="center"> Akshat Raj</h1>
 <h3 align="center">Founder of OnePersonAI | AI with Empathy & Vision | Building for the Mind & the Masses</h3>
 
 ---
