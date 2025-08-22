@@ -41,34 +41,6 @@ Building intelligent systems and scalable applications with modern technologies.
 
 ---
 
-## 💼 Projects
-
-### 🧠 NeuroBreak-AI
-Mental wellness AI assistant with emotion detection
-- **Tech:** Python, NLP, Streamlit, ML
-- **Features:** Mood analysis, conversation AI
-
-### 🤖 AkshaBot-Pro  
-Advanced chatbot with Flask backend
-- **Tech:** Python Flask, JavaScript, AI/ML
-- **Features:** Context understanding, scalable architecture
-
-### 💻 AI Attendance System
-Computer vision face recognition system
-- **Tech:** Python, OpenCV, Face Recognition
-- **Features:** Real-time detection, automated logging
-
-### 📊 Heart Disease Prediction
-Healthcare ML model for medical diagnosis
-- **Tech:** Python, Machine Learning, Data Analysis
-- **Features:** High accuracy prediction algorithms
-
-### 🎯 MultimodalAI Assistant
-Voice + text + image processing system
-- **Tech:** Python, Speech APIs, Computer Vision
-- **Features:** Multiple input modes, AI processing
-
----
 
 ## 📈 GitHub Stats
 
