@@ -1,4 +1,4 @@
-# 💀 **AKSHAT RAJ** | `OnePersonAI` 🤖
+# **AKSHAT RAJ** | `OnePersonAI` 🤖
 
 ```ascii
      ╔══════════════════════════════════════════════════════════════╗
