@@ -1,55 +1,63 @@
-# 👋 Hi, I’m Akshat Raj  
-
-💻 Aspiring Computer Engineer | AI & Full-Stack Developer | Problem Solver  
-
-I’m passionate about building intelligent systems, solving real-world problems with code, and continuously pushing my limits in software development.  
-
----
-
-## 🛠️ Skills & Technologies  
-
-- **Programming Languages:** Python, C, C++, JavaScript  
-- **Web Development:** React.js, Node.js, Express.js, MongoDB  
-- **AI & ML:** TensorFlow, OpenCV, scikit-learn  
-- **Other Tools:** Git, Linux, Docker, MySQL  
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eW9kOWk5ZzM1emI4dDFvYnpnc256ZTR4OHlqMWN0eTRhNXEzciZlcD12MV9pbnRlcm5hbF9naWZfY2F0YWxvZyZjdD1n/M9F5c4z3hL2Vn3z2n4/giphy.gif" width="100" />
+  <h1>Hi, I'm [Your Name]! <br/> A Tech Enthusiast & Developer</h1>
+  <p>Building innovative solutions and exploring the ever-evolving world of technology.</p>
+</div>
 
 ---
 
-## 🚀 My Company Vision  
+### 🚀 My Tech Stack
 
-I’m currently working on building **OnePersonAI** —  
-an innovative platform that aims to combine **Artificial Intelligence, Automation, and Simplicity** to create tools that empower individuals and businesses.  
-
-🌍 Mission: *“To make AI accessible, powerful, and human-friendly.”*  
-💡 Core Areas: AI Agents, Smart Automation, Scalable Web Platforms  
-🔮 Future Goal: Establish a **global tech company** that redefines how people interact with AI.  
-
----
-
-## 📈 GitHub Stats  
-
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshatrao00&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshatrao00&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Akshatrao00&theme=tokyonight)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 🌱 Currently Exploring  
+### 💻 Some of My Projects
 
-- Advanced **Data Structures & Algorithms** for competitive programming  
-- Scalable **AI/ML models** for real-world applications  
-- **System Design & Cloud Computing** for large-scale projects  
+#### 1. **`[Your Project Title]`**
+*A brief description of your project. What does it do? What technologies did you use?*
 
----
-
-## 📫 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-raj-73ba41233)  
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshatrao00)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+#### 2. **`[Your Project Title]`**
+*A brief description of your project. What does it do? What technologies did you use?*
 
 ---
 
-✨ *“Code is not just instructions for a machine, it’s a reflection of the mind that creates it.”* ✨  
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&theme=dark&show_icons=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YourLinkedInUsername]">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/[YourTwitterUsername]">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:[YourEmailAddress]">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <i><br>Happy coding!</i>
+</div>
 
 
