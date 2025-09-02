@@ -162,7 +162,7 @@
 
 <div id="user-content-toc" align="center">
   <ul>
-    <summary><strong><samp>[ NEURAL ACTIVITY // 3D CONTRIBUTION GRAPH ]</samp></strong></summary>
+    <summary><strong><samp>[ NEURAL ACTIVITY // ACTIVITY GRAPH ]</samp></strong></summary>
   </ul>
   <a href="https://github.com/AkshatRaj00">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
