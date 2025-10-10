@@ -7,7 +7,7 @@
 
 </div>
 
-As a dedicated AI and Full-Stack Developer, I specialize in architecting and building intelligent systems that bridge the gap between human emotion and machine understanding. With a strong foundation in both front-end and back-end technologies, my focus is on creating seamless, impactful applications powered by advanced AI and Machine Learning. My goal is to develop technology that is not only powerful but also intuitive and beneficial to mental wellness and human-computer interaction.
+AI Engineer and founder of OnePersonAI. I build ML prototypes, web apps, and deployable AI tools. Projects: Ultimate To-Do App, Heart Disease Prediction. Connect: akshatraj00. With a strong foundation in both front-end and back-end technologies, my focus is on creating seamless, impactful applications powered by advanced AI and Machine Learning. My goal is to develop technology that is not only powerful but also intuitive and beneficial to mental wellness and human-computer interaction.
 
 <div align="center">
 
