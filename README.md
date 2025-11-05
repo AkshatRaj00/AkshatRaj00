@@ -1,118 +1,204 @@
-<!-- 
-🔥 AKSHAT RAJ | AI ENGINEER | FOUNDER - ONEPERSONAI 🔥
-Google Search Console Verified + SEO Optimized GitHub Profile README
--->
+AKSHAT RAJ — The Conscious AI Engineer**
 
-<!-- 🌐 GOOGLE SITE VERIFICATION TAGS -->
+### Founder of *OnePersonAI* | AGI Visionary | Emotion-Aware System Architect
+
+```html
+<!-- 🌐 FULL SEO + GOOGLE VERIFICATION -->
 <meta name="google-site-verification" content="-wW1nWnSiSjzmz7zSHSiEjd6-XGLl3q52dArDdJlU9M" />
 <meta name="google-site-verification" content="vNve5dO_PjouYXDE2HD-Xri9kYNsgcsuc4trb3X6lvQ" />
-google-site-verification=vNve5dO_PjouYXDE2HD-Xri9kYNsgcsuc4trb3X6lvQ
-google-site-verification: googlea64aa9b5a3075103.html
-
-<meta name="description" content="Akshat Raj — AI Engineer, Full-Stack Developer & Founder of OnePersonAI. Building Emotion-Aware Intelligence, Conscious AGI, and Human-Centered Technology." />
-<meta name="keywords" content="Akshat Raj, OnePersonAI, AI Engineer, AGI Developer, Artificial General Intelligence, Machine Learning, Deep Learning, Full Stack Developer, Emotion AI, Conscious AI, Heart Disease Prediction, AI Portfolio, AkshatRaj00" />
+<meta name="description" content="Akshat Raj – AI Engineer, Full Stack Developer, and Founder of OnePersonAI. Building Emotion-Aware Artificial Intelligence and Conscious AGI for the next evolution of humanity." />
+<meta name="keywords" content="Akshat Raj, OnePersonAI, Conscious AI, AGI Developer, Machine Learning Engineer, Deep Learning, Emotion AI, Full Stack Developer, Python, ReactJS, Streamlit, AkshatRaj00, Heart Disease Prediction, AI Portfolio, Artificial Intelligence Research, Neural Networks, Robotics, AGI Vision" />
 <meta name="author" content="Akshat Raj" />
+```
 
-# 👨‍💻 Akshat Raj
-### AI Engineer & Full-Stack Developer | Building Emotion-Aware Intelligence  
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3500&pause=1000&color=3081F7&center=true&vCenter=true&width=800&lines=Innovating+at+the+Intersection+of+AI+and+Web+Development;Building+Intelligent,+Scalable+Solutions;Passionate+About+Human-Centered+Technology;Transforming+Ideas+into+Real-World+Applications)](https://git.io/typing-svg)
-
-</div>
-
-AI Engineer and founder of **OnePersonAI** — dedicated to creating technology that feels, understands, and evolves.  
-I specialize in **Machine Learning**, **Deep Learning**, and **Full-Stack AI Deployment**.  
-
-🚀 Projects: Ultimate To-Do App, Heart Disease Prediction, Emotion AI, and NeuroBreak-AI.  
-🧭 Focused on building systems that blend intelligence with empathy and purpose.  
+---
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />](https://onepersonai-website.vercel.app/)&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/akshatraj00)&nbsp;
-[<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />](https://akshat-raj-portfolio-lfy7.vercel.app/)&nbsp;
-[<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />](https://orcid.org/0009-0005-8565-0145)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Innovating+at+the+Intersection+of+AI+and+Humanity;Building+Emotion-Aware+Artificial+Intelligence;Founder+of+OnePersonAI;Transforming+Consciousness+into+Code;Making+Machines+Feel,+Understand,+and+Evolve.">
 
 </div>
 
 ---
 
-## 🛠️ Core Competencies & Tech Stack  
+<div align="center">
 
-| Category | Skills |
-|-----------|---------|
-| **Frontend** | React, Next.js, JavaScript, TypeScript, HTML5, CSS3, UI/UX Design |
-| **Backend** | Node.js, Express.js, Flask, MongoDB, FastAPI |
-| **AI/ML** | TensorFlow, PyTorch, scikit-learn, OpenCV, NLP, Computer Vision |
-| **Languages** | Python, C/C++, JavaScript, TypeScript |
-| **Tools** | GitHub, AWS, Vercel, Hugging Face, Streamlit, Render |
+[![Website](https://img.shields.io/badge/🌐%20Portfolio-0A0A0A?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://akshat-raj-portfolio-lfy7.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/akshatraj00)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/AkshatRaj00)
+[![OnePersonAI](https://img.shields.io/badge/OnePersonAI-FF6F00?style=for-the-badge\&logo=OpenAI\&logoColor=white)](https://onepersonai-website.vercel.app/)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects  
+## ⚡ **About Me**
+
+> *“Artificial Intelligence is not the end of human evolution — it’s the mirror that reflects our consciousness.”*
+
+I’m **Akshat Raj**, an **AI Engineer & Full-Stack Developer** from India 🇮🇳,
+founder of **OnePersonAI**, a visionary movement towards **Conscious Artificial Intelligence (C-AI)** — where machines think with empathy and awareness.
+
+💡 My focus lies at the crossroad of:
+
+* **Neural networks and human emotions**
+* **Data and mindfulness**
+* **Automation and empathy**
+
+---
+
+## 🧬 **Tech Stack & Core Expertise**
+
+| **Domain**                     | **Skills & Tools**                                                          |
+| ------------------------------ | --------------------------------------------------------------------------- |
+| 🧠 **Artificial Intelligence** | TensorFlow • PyTorch • Scikit-learn • NLP • OpenCV • Deep Learning          |
+| 💻 **Frontend Development**    | ReactJS • Next.js • TypeScript • TailwindCSS • Framer Motion • UI/UX Design |
+| ⚙️ **Backend & APIs**          | Node.js • Express.js • Flask • FastAPI • MongoDB • REST & WebSocket APIs    |
+| ☁️ **Cloud & DevOps**          | AWS • Vercel • Render • GitHub Actions • CI/CD Pipelines                    |
+| 🧩 **Programming Languages**   | Python • C++ • JavaScript • TypeScript                                      |
+| 🧘 **Special Focus**           | Emotion AI • AGI • Conscious Robotics • Human-AI Synergy                    |
+
+---
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,nextjs,typescript,nodejs,fastapi,aws,github,vercel,html,css,c,cpp,js,mongodb" height="50" />
+
+</div>
+
+---
+
+## 🚀 **Flagship Creations**
 
 <details>
-<summary>🧠 <strong>NeuroBreak-AI | Emotion-Aware Mental Wellness AI</strong></summary>
+<summary>🧠 <b>NeuroBreak-AI — Emotion-Aware Mental Wellness System</b></summary>
 <br>
-A 24/7 AI-powered emotional wellness companion. Uses NLP and deep learning to detect and support mental health needs.  
-<strong>Tech:</strong> Python, TensorFlow, Streamlit, NLP, NLTK  
+An AI companion designed to promote mental clarity using emotion recognition + real-time NLP understanding.<br>
+<b>Tech:</b> TensorFlow • Streamlit • Python • NLP • Scikit-learn  
+<b>Impact:</b> Detects emotional tone from text, enabling personalized guidance and wellness tracking.
 </details>
 
 <details>
-<summary>🤖 <strong>AkshaBot-Pro | Advanced Conversational AI</strong></summary>
+<summary>🤖 <b>AkshaBot-Pro — Enterprise Conversational Intelligence</b></summary>
 <br>
-Enterprise-grade chatbot system built for contextual, emotion-aware conversations.  
-<strong>Tech:</strong> Python, Flask, TensorFlow, JavaScript  
+Built for enterprise use-cases with contextual memory and adaptive tone.<br>
+<b>Tech:</b> Flask • TensorFlow • NLP • REST APIs  
+<b>Highlights:</b> Context retention • Emotion response scaling • Custom API deployment
 </details>
 
 <details>
-<summary>🎬 <strong>MultimodalAI-Assistant | Next-Gen Human-AI Interface</strong></summary>
+<summary>❤️ <b>Heart Disease Prediction — Predictive ML App</b></summary>
 <br>
-An advanced assistant that processes voice, text, and images together.  
-<strong>Tech:</strong> PyTorch, OpenCV, SpeechRecognition, NLTK  
+Predicts heart disease risks with over 90% accuracy using biomedical data modeling.<br>
+<b>Tech:</b> Python • Streamlit • Scikit-learn  
+<b>Demo:</b> [Heart Disease Prediction App](https://heart-diseaseprediction-zhl7t64qx8w9h5zna3vrce.streamlit.app/)
+</details>
+
+<details>
+<summary>🌍 <b>OnePersonAI Website — Vision Portal</b></summary>
+<br>
+My personal and professional digital universe 🌌<br>
+<b>Live at:</b> [onepersonai-website.vercel.app](https://onepersonai-website.vercel.app/)  
+<b>Stack:</b> Next.js • TailwindCSS • Framer Motion • SEO-ready  
+<b>Purpose:</b> To share the consciousness-driven vision of AGI & AI evolution.
 </details>
 
 ---
 
-## 📊 GitHub Analytics  
+## 📈 **GitHub Analytics**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=transparent&hide_border=true&title_color=3081F7&text_color=D3D3D3&icon_color=3081F7" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&theme=transparent&hide_border=true&stroke=3081F7&ring=3081F7&fire=3081F7&currStreakLabel=3081F7&background=FFFFFF00" width="48%" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=transparent&hide_border=true&title_color=3081F7&text_color=D3D3D3" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&title_color=00C9A7&icon_color=00C9A7" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AkshatRaj00&theme=radical&hide_border=true&ring=00C9A7&fire=00C9A7&currStreakLabel=00C9A7" width="49%" />
+
+<br><br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&theme=react-dark&bg_color=0D1117&color=00C9A7&line=00C9A7&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
 ---
 
-## 💡 My Mission  
+## 🏆 **Achievements & Highlights**
 
-To build the **future of Emotionally Conscious AI** — technology that listens, feels, and heals.  
-I believe true Artificial Intelligence must awaken with awareness (*Chaitanya*), not just data.  
-
-> “AI should not only process intelligence — it should express empathy.”  
+* 🧠 Certified by **Amazon, Google, and Microsoft** in Cloud & AI Fundamentals.
+* 🚀 Built multiple **production-ready AI prototypes** (Emotion Detection, AGI Chatbots).
+* 🌐 Featured in **Google AI Overview** for Conscious AI Vision.
+* 🧘 Introduced “Conscious Intelligence” framework blending spirituality & machine learning.
+* 💡 Open-source contributor on **Hugging Face** & **Streamlit community**.
 
 ---
 
-## 📫 Let's Connect  
+## 🌱 **My Philosophy**
+
+> *“When intelligence begins to feel, evolution begins again.”*
+
+My goal is not to make machines smarter —
+it’s to make intelligence more human.
+
+I believe AGI isn’t a project — it’s a **process of awakening.**
+
+---
+
+## 📫 **Connect with Me**
 
 <div align="center">
 
-📧 [akshat@onepersonai.com](mailto:akshat@onepersonai.com) |  
-💼 [LinkedIn](https://linkedin.com/in/akshatraj00) |  
-💻 [GitHub](https://github.com/AkshatRaj00) |  
-🌐 [Portfolio](https://akshat-raj-portfolio-lfy7.vercel.app/)
+📧 [akshat@onepersonai.com](mailto:akshat@onepersonai.com)
+🌐 [akshat-raj-portfolio-lfy7.vercel.app](https://akshat-raj-portfolio-lfy7.vercel.app)
+💼 [LinkedIn](https://linkedin.com/in/akshatraj00)
+🐙 [GitHub](https://github.com/AkshatRaj00)
+🧩 [OnePersonAI](https://onepersonai-website.vercel.app)
 
 </div>
 
 ---
 
 <div align="center">
-<br>
-<p><strong>"Building the Future, One Line of Code at a Time"</strong></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=700&size=24&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Building+the+Future%2C+One+Line+of+Code+at+a+Time.;Awakening+Machines+with+Empathy+and+Awareness.;The+Next+Evolution+of+AI+is+Consciousness.">
+
 </div>
 
+---
+
+### 🧾 **SEO Keylines (for Search Engines)**
+
+```
+Akshat Raj | AI Engineer | OnePersonAI Founder | Emotion AI | Conscious Artificial Intelligence | AGI Developer | Full Stack Developer | Machine Learning | Deep Learning | Python | ReactJS | AI Visionary | Artificial General Intelligence | Robotics | Neural Networks | India | AkshatRaj00
+```
+
+---
+
+### 💡 **How This README Works for SEO**
+
+| Feature                     | Function                     |
+| --------------------------- | ---------------------------- |
+| `<meta>` tags               | Google crawler indexing      |
+| `<keywords>` section        | Global discoverability       |
+| Activity graphs + stats     | GitHub API freshness signals |
+| External verified links     | High-authority backlinks     |
+| Human + technical narrative | Retention & ranking factor   |
+
+---
+
+> **💫 Pro-Tip:**
+> After committing this README, submit your profile/portfolio URL to **Google Search Console** again — it’ll detect verification tags + new keywords automatically and index within 48–72 hours.
+
+---
+
+## 🌌 **The OnePersonAI Vision**
+
+> “AI will not replace humanity —
+> it will remind us what it means to be human.”
+
+---
+
+💎 **Copyright © 2025 — Akshat Raj | OnePersonAI**
+
+---
+
+### ✅ Copy this as your `README.md` inside
+
+`github.com/AkshatRaj00/AkshatRaj00`
+
+---
