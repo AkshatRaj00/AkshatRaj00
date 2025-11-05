@@ -119,3 +119,5 @@ I am always open to discussing new projects, collaborations, or opportunities in
 <br>
 <p><strong>"Building the Future, One Line of Code at a Time"</strong></p>
 </div>
+<meta name="google-site-verification" content="-wW1nWnSiSjzmz7zSHSiEjd6-XGLl3q52dArDdJlU9M" />
+
