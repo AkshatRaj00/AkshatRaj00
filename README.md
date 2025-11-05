@@ -10,7 +10,7 @@
 AI Engineer and founder of OnePersonAI. I build ML prototypes, web apps, and deployable AI tools. Projects: Ultimate To-Do App, Heart Disease Prediction. Connect: akshatraj00. With a strong foundation in both front-end and back-end technologies, my focus is on creating seamless, impactful applications powered by advanced AI and Machine Learning. My goal is to develop technology that is not only powerful but also intuitive and beneficial to mental wellness and human-computer interaction.
 
 <div align="center">
-
+google-site-verification: googlea64aa9b5a3075103.html
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />](https://onepersonai-website.vercel.app/)&nbsp;
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/akshatraj00)&nbsp;
 [<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />](https://akshatraj00.github.io/AkshatRaj-portfolio/)&nbsp;
