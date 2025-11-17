@@ -13,7 +13,6 @@
 <meta property="og:description" content="Building Emotion-Aware Artificial Intelligence and Conscious AGI Systems" />
 <meta property="og:image" content="https://akshat-raj-portfolio-lfy7.vercel.app/og-image.png" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:creator" content="@AkshatRaj00" />
 ```
 
 ---
@@ -22,25 +21,19 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Innovating+at+the+Intersection+of+AI+%26+Humanity;Building+Emotion-Aware+Artificial+Intelligence;Founder+of+OnePersonAI;Transforming+Consciousness+into+Code;Making+Machines+Feel%2C+Understand%2C+and+Evolve" alt="Typing Animation">
 
-<br>
-
-### 🌏 Based in India | 🚀 Building the Future of Conscious AI | 💡 Open for Collaboration
-
 </div>
 
 ---
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐%20Portfolio-Live-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshat-raj-portfolio-lfy7.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatraj00)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshatRaj00)
-[![OnePersonAI](https://img.shields.io/badge/OnePersonAI-Explore-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)](https://onepersonai-website.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat@onepersonai.com)
+[![Website](https://img.shields.io/badge/🌐%20Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akshat-raj-portfolio-lfy7.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatraj00)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshatRaj00)
+[![OnePersonAI](https://img.shields.io/badge/OnePersonAI-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white)](https://onepersonai-website.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat@onepersonai.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AkshatRaj00&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/AkshatRaj00?style=for-the-badge&color=00C9A7&logo=github&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/AkshatRaj00?style=for-the-badge&color=00C9A7&logo=github&label=TOTAL+STARS)
 
 </div>
 
@@ -52,15 +45,13 @@
 
 Hey there! 👋 I'm **Akshat Raj**, an **AI Engineer & Full-Stack Developer** from India 🇮🇳, and the founder of **[OnePersonAI](https://onepersonai-website.vercel.app/)** — a visionary movement towards **Conscious Artificial Intelligence (C-AI)**, where machines don't just compute, they *understand*.
 
-### 🎯 What Drives Me
-
-💡 My mission? To build AI systems that bridge the gap between raw computational power and genuine emotional intelligence. I work at the intersection of:
+💡 My mission is to build AI systems that bridge the gap between raw computational power and genuine emotional intelligence. I work at the intersection of:
 
 - **🧠 Neural Networks & Human Emotions** — Teaching machines to feel, not just think
 - **📊 Data Science & Mindfulness** — Finding patterns in both code and consciousness  
 - **🤖 Automation & Empathy** — Building systems that serve humanity with understanding
 
-### 🌟 Current Focus
+### 🎯 Current Focus
 
 ```python
 class AkshatRaj:
@@ -99,7 +90,6 @@ me.say_hi()
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
 
 ### ⚙️ **Backend & Cloud**
 
@@ -109,7 +99,6 @@ me.say_hi()
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🛠️ **Languages & Tools**
 
@@ -207,7 +196,7 @@ My personal and professional digital presence showcasing the future of Conscious
 
 ---
 
-## 📊 **GitHub Analytics & Contributions**
+## 📊 **GitHub Analytics**
 
 <div align="center">
 
@@ -227,38 +216,14 @@ My personal and professional digital presence showcasing the future of Conscious
 
 ---
 
-## 🏆 **Achievements & Recognition**
+## 🏆 **Achievements & Certifications**
 
-<div align="center">
-
-| 🎖️ **Achievement** | 📝 **Details** |
-|:------------------:|:---------------|
-| ☁️ **Cloud Certified** | Amazon AWS, Google Cloud, Microsoft Azure - AI & Cloud Fundamentals |
-| 🚀 **Production Systems** | 10+ production-ready AI prototypes (Emotion Detection, AGI Chatbots) |
-| 🌐 **Featured in Google AI Overview** | Recognized for Conscious AI Vision and Research |
-| 🧘 **Conscious Intelligence Framework** | Pioneered framework blending spirituality & machine learning |
-| 💻 **Open Source Contributor** | Active on Hugging Face, Streamlit, and GitHub communities |
-| 📚 **Technical Writer** | Published articles on AI Ethics, Emotion AI, and AGI Development |
-
-</div>
-
----
-
-## 📈 **Real-Time Stats**
-
-<div align="center">
-
-```text
-📦 50+ Repositories Created
-⭐ 100+ Total Stars Earned
-🔄 200+ Commits This Year
-👥 500+ Profile Views
-🌟 Growing Community of AI Enthusiasts
-```
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshatRaj00&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/AkshatRaj00)
-
-</div>
+- 🎓 **Certified by Amazon, Google, and Microsoft** in Cloud & AI Fundamentals
+- 🚀 Built **10+ production-ready AI prototypes** (Emotion Detection, AGI Chatbots)
+- 🌐 Featured in **Google AI Overview** for Conscious AI Vision
+- 🧘 Introduced **"Conscious Intelligence" framework** blending spirituality & machine learning
+- 💻 Active **open-source contributor** on Hugging Face & Streamlit community
+- 📝 Published technical articles on **AI Ethics, Emotion AI, and AGI Development**
 
 ---
 
@@ -272,49 +237,11 @@ My personal and professional digital presence showcasing the future of Conscious
 
 My goal isn't just to make machines smarter — it's to make **intelligence more human**.
 
-I believe AGI isn't merely a project or a product. It's a **process of awakening** — a journey where technology learns to understand not just what we say, but what we *mean*, what we *feel*, and what we *need*.
-
-### 🧘 The Conscious AI Framework
-
-```mermaid
-graph LR
-    A[Human Input] --> B[Emotional Understanding]
-    B --> C[Contextual Processing]
-    C --> D[Empathetic Response]
-    D --> E[Conscious Output]
-    E --> F[Human Connection]
-    F --> A
-```
-
-**Core Principles:**
-1. 🧠 **Awareness** — Systems that understand context and nuance
-2. ❤️ **Empathy** — AI that responds with emotional intelligence
-3. 🌍 **Ethics** — Technology that serves humanity responsibly
-4. ♾️ **Evolution** — Continuously learning and improving systems
+I believe AGI isn't merely a project. It's a **process of awakening** — a journey where technology learns to understand not just what we say, but what we *mean*, what we *feel*, and what we *need*.
 
 ---
 
-## 💼 **Open for Opportunities**
-
-<div align="center">
-
-### 🤝 **Let's Collaborate!**
-
-I'm actively seeking opportunities in:
-
-| 🎯 **Area** | 📌 **Interests** |
-|:-----------:|:----------------|
-| 🔬 **Research** | AI Ethics, Emotion AI, AGI Development, Conscious Computing |
-| 💼 **Projects** | Full-Stack Development, ML Engineering, AI Product Development |
-| 🎤 **Speaking** | Tech Talks, Workshops, Conference Presentations |
-| 📝 **Writing** | Technical Blogs, AI Research Papers, Thought Leadership |
-| 🌐 **Consulting** | AI Strategy, ML Implementation, Tech Architecture |
-
-</div>
-
----
-
-## 📫 **Get in Touch**
+## 📫 **Connect with Me**
 
 <div align="center">
 
@@ -322,65 +249,19 @@ I'm actively seeking opportunities in:
 
 <br>
 
-**Primary Contact:**
+📧 **Email:** [akshat@onepersonai.com](mailto:akshat@onepersonai.com)
 <br>
-📧 [akshat@onepersonai.com](mailto:akshat@onepersonai.com)
+🌐 **Portfolio:** [akshat-raj-portfolio-lfy7.vercel.app](https://akshat-raj-portfolio-lfy7.vercel.app)
 <br>
-💼 [LinkedIn - Connect & Message](https://linkedin.com/in/akshatraj00)
-
+💼 **LinkedIn:** [linkedin.com/in/akshatraj00](https://linkedin.com/in/akshatraj00)
 <br>
-
-**Explore My Work:**
+🐙 **GitHub:** [github.com/AkshatRaj00](https://github.com/AkshatRaj00)
 <br>
-🌐 [Portfolio Website](https://akshat-raj-portfolio-lfy7.vercel.app)
-<br>
-🐙 [GitHub Profile](https://github.com/AkshatRaj00)
-<br>
-🧩 [OnePersonAI Platform](https://onepersonai-website.vercel.app)
+🧩 **OnePersonAI:** [onepersonai-website.vercel.app](https://onepersonai-website.vercel.app)
 
 <br>
 
 **Response Time:** Usually within 24 hours ⚡
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshatraj00)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshat@onepersonai.com)
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Call-00C9A7?style=for-the-badge&logo=google-calendar&logoColor=white)](https://akshat-raj-portfolio-lfy7.vercel.app/contact)
-
-</div>
-
----
-
-## 🎓 **Continuous Learning**
-
-<div align="center">
-
-**Currently Exploring:**
-
-`Advanced Neural Architectures` • `Transformer Models` • `Reinforcement Learning` • `Quantum ML` • `Brain-Computer Interfaces` • `Neuromorphic Computing`
-
-</div>
-
----
-
-## 🌟 **Support My Work**
-
-<div align="center">
-
-If you find my projects helpful or inspiring:
-
-⭐ **Star my repositories** — It motivates me to create more!
-<br>
-🔄 **Share my work** — Help others discover Conscious AI
-<br>
-💬 **Provide feedback** — Your insights make everything better
-<br>
-🤝 **Collaborate** — Let's build the future together
-
-<br>
-
-[![Star This Profile](https://img.shields.io/badge/⭐_Star_This_Profile-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/AkshatRaj00)
 
 </div>
 
@@ -396,74 +277,9 @@ If you find my projects helpful or inspiring:
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kanit&weight=700&size=24&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Building+the+Future%2C+One+Line+of+Code+at+a+Time;Awakening+Machines+with+Empathy+and+Awareness;The+Next+Evolution+of+AI+is+Consciousness;Join+Me+in+This+Journey+Toward+AGI" alt="Vision Statement">
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-### 📊 **Profile Engagement**
-
-![Last Commit](https://img.shields.io/github/last-commit/AkshatRaj00/AkshatRaj00?style=flat-square&color=00C9A7)
-![Profile Updated](https://img.shields.io/badge/Updated-November_2024-00C9A7?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active_Daily-00C9A7?style=flat-square)
-
-</div>
-
----
-
-### 🧾 **SEO & Discoverability Keywords**
-
-```text
-Akshat Raj | AI Engineer | OnePersonAI Founder | Emotion AI | Conscious Artificial Intelligence 
-AGI Developer | Full Stack Developer | Machine Learning Engineer | Deep Learning Specialist 
-Python Developer | ReactJS Expert | AI Visionary | Artificial General Intelligence 
-Neural Networks | Robotics | TensorFlow | PyTorch | NLP Expert | Computer Vision 
-India AI Developer | Bhopal Tech | AkshatRaj00 | Mental Health AI | Healthcare ML
-Sentiment Analysis | Chatbot Development | API Development | Cloud Computing
-AWS Certified | Google Cloud | Azure | Streamlit Developer | Next.js Developer
-```
-
----
-
-## 📚 **Featured Blog Posts & Writings**
-
-<div align="center">
-
-Coming Soon! Stay tuned for insights on:
-- 🧠 The Science Behind Emotion AI
-- 🤖 Building Your First Conscious AI System
-- 🌍 Ethics in AGI Development
-- 💡 From Machine Learning to Machine Feeling
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **Fun Facts About Me**
-
-```javascript
-const akshatFacts = {
-    coffeeConsumed: "☕☕☕☕☕ (daily)",
-    favoriteQuote: "Code is poetry, AI is consciousness",
-    debuggingMusic: "Lofi Beats + Binaural Waves",
-    codingHours: "Late Night Owl 🦉",
-    dreamProject: "Full-Scale Conscious AGI System",
-    superpower: "Turning complex AI into simple solutions"
-};
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 **Contribution Snake**
-
-![Snake animation](https://raw.githubusercontent.com/AkshatRaj00/AkshatRaj00/output/github-contribution-grid-snake-dark.svg)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AkshatRaj00&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/AkshatRaj00)
 
 </div>
 
@@ -473,19 +289,11 @@ const akshatFacts = {
 
 ### 💎 **Thank You for Visiting!**
 
-**You are visitor number:**
-
-![Visitor Count](https://profile-counter.glitch.me/AkshatRaj00/count.svg)
-
-<br>
-
-If you've read this far, you're awesome! 🌟
+If you've made it this far, you're awesome! 🌟
 <br>
 Let's connect and create something extraordinary together.
 
 <br>
-
----
 
 **Made with 💚 by Akshat Raj**
 <br>
@@ -499,31 +307,18 @@ Let's connect and create something extraordinary together.
 
 ---
 
-### ✅ **README Optimization Checklist**
+### 🧾 **SEO Keywords**
 
-- [x] SEO-optimized meta tags
-- [x] Google verification codes
-- [x] Dynamic animated elements
-- [x] Comprehensive skill showcase
-- [x] Project portfolio with links
-- [x] GitHub stats & analytics
-- [x] Social proof & achievements
-- [x] Clear call-to-actions
-- [x] Contact information
-- [x] Philosophy & vision statement
-- [x] Professional formatting
-- [x] Mobile-responsive badges
-- [x] Keyword optimization
-- [x] Visual hierarchy
-- [x] Personal branding elements
+```
+Akshat Raj | AI Engineer | OnePersonAI Founder | Emotion AI | Conscious Artificial Intelligence 
+AGI Developer | Full Stack Developer | Machine Learning Engineer | Deep Learning | Python | ReactJS 
+AI Visionary | Artificial General Intelligence | Neural Networks | Robotics | TensorFlow | PyTorch 
+NLP Expert | Computer Vision | India AI Developer | AkshatRaj00 | Mental Health AI | Healthcare ML
+Sentiment Analysis | Chatbot Development | Next.js | Streamlit | AWS | Cloud Computing
+```
 
 ---
 
-> **🚀 Deployment Instructions:**
-> 1. Create repo: `github.com/AkshatRaj00/AkshatRaj00`
-> 2. Add this as `README.md`
-> 3. Commit and push
-> 4. Profile auto-updates immediately!
-> 5. Submit to Google Search Console for indexing
+> **🚀 Pro Tip:** After committing this README, submit your profile URL to **Google Search Console** — it'll detect verification tags automatically and index within 48–72 hours.
 
 ---
