@@ -2,20 +2,6 @@
 
 ### Founder of *OnePersonAI* | AGI Visionary | Emotion-Aware System Architect
 
-```html
-<!-- 🌐 FULL SEO + GOOGLE VERIFICATION -->
-<meta name="google-site-verification" content="-wW1nWnSiSjzmz7zSHSiEjd6-XGLl3q52dArDdJlU9M" />
-<meta name="google-site-verification" content="vNve5dO_PjouYXDE2HD-Xri9kYNsgcsuc4trb3X6lvQ" />
-<meta name="description" content="Akshat Raj – AI Engineer, Full Stack Developer, and Founder of OnePersonAI. Building Emotion-Aware Artificial Intelligence and Conscious AGI for the next evolution of humanity." />
-<meta name="keywords" content="Akshat Raj, OnePersonAI, Conscious AI, AGI Developer, Machine Learning Engineer, Deep Learning, Emotion AI, Full Stack Developer, Python, ReactJS, Streamlit, AkshatRaj00, Heart Disease Prediction, AI Portfolio, Artificial Intelligence Research, Neural Networks, Robotics, AGI Vision" />
-<meta name="author" content="Akshat Raj" />
-<meta property="og:title" content="Akshat Raj - AI Engineer & Founder of OnePersonAI" />
-<meta property="og:description" content="Building Emotion-Aware Artificial Intelligence and Conscious AGI Systems" />
-<meta property="og:image" content="https://akshat-raj-portfolio-lfy7.vercel.app/og-image.png" />
-<meta name="twitter:card" content="summary_large_image" />
-```
-
----
 
 <div align="center">
 
@@ -109,90 +95,6 @@ me.say_hi()
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
----
-
-## 🚀 **Flagship Projects**
-
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 [NeuroBreak-AI](https://github.com/AkshatRaj00/NeuroBreak-AI)
-**Emotion-Aware Mental Wellness System**
-
-An AI companion that promotes mental clarity using emotion recognition and real-time NLP understanding.
-
-**Tech Stack:**
-- TensorFlow & Scikit-learn
-- Streamlit & Python
-- Natural Language Processing
-- Sentiment Analysis
-
-**Impact:** Detects emotional tone from text, enabling personalized wellness guidance and mental health tracking.
-
-[![View Project](https://img.shields.io/badge/View_Project-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshatRaj00/NeuroBreak-AI)
-
-</td>
-<td width="50%">
-
-### 🤖 [AkshaBot-Pro](https://github.com/AkshatRaj00/AkshaBot-Pro)
-**Enterprise Conversational Intelligence**
-
-Built for enterprise use-cases with contextual memory and adaptive emotional tone.
-
-**Tech Stack:**
-- Flask & TensorFlow
-- REST APIs & NLP
-- Context Management
-- Emotion Response Scaling
-
-**Highlights:** Multi-turn conversations, sentiment-aware responses, and custom API deployment for businesses.
-
-[![View Project](https://img.shields.io/badge/View_Project-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshatRaj00/AkshaBot-Pro)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ❤️ [Heart Disease Prediction](https://heart-diseaseprediction-zhl7t64qx8w9h5zna3vrce.streamlit.app/)
-**Predictive ML Healthcare App**
-
-ML model predicting heart disease risks with 90%+ accuracy using biomedical data modeling.
-
-**Tech Stack:**
-- Python & Streamlit
-- Scikit-learn
-- Data Preprocessing
-- Feature Engineering
-
-**Deployment:** Live production app serving real-time predictions.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6F00?style=for-the-badge&logo=streamlit&logoColor=white)](https://heart-diseaseprediction-zhl7t64qx8w9h5zna3vrce.streamlit.app/)
-
-</td>
-<td width="50%">
-
-### 🌍 [OnePersonAI Website](https://onepersonai-website.vercel.app/)
-**Vision Portal & Digital Universe**
-
-My personal and professional digital presence showcasing the future of Conscious AI.
-
-**Tech Stack:**
-- Next.js & TypeScript
-- TailwindCSS & Framer Motion
-- SEO Optimized
-- Responsive Design
-
-**Purpose:** Sharing the consciousness-driven vision of AGI and AI evolution with the world.
-
-[![Visit Site](https://img.shields.io/badge/Visit_Site-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://onepersonai-website.vercel.app/)
-
-</td>
-</tr>
-</table>
 
 ---
 
