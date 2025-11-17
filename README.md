@@ -1,81 +1,133 @@
-# Akshat Raj  
-### AI Engineer • Full-Stack Developer • Founder – OnePersonAI  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Akshat Raj – AI Engineer</title>
 
----
+  <!-- SEO -->
+  <meta name="description" content="AI Engineer, ML Developer, Founder – OnePersonAI" />
+  <meta name="author" content="Akshat Raj" />
+  <meta name="keywords" content="AI Engineer, Deep Learning, NLP, FastAPI, Next.js, OnePersonAI" />
 
-## About Me
-I build practical and reliable AI systems focused on NLP, ML models, and full-stack applications.  
-My work aims for simplicity, clarity, and real-world impact.
+  <style>
+    body { font-family: Inter, sans-serif; background:#0d1117; color:#e6edf3; padding:40px; }
+    h1, h2 { color:#58a6ff; }
+    .section { margin-top:40px; }
+    .card { background:#161b22; padding:20px; border-radius:10px; margin-bottom:15px; }
+    .tag { background:#21262d; padding:4px 8px; border-radius:6px; margin-right:6px; font-size:12px; }
+  </style>
+</head>
 
----
+<body>
+<!-- ========================= -->
+<!--        DATA BLOCK         -->
+<!-- (JSON + YAML MIXED DATA) -->
+<!-- ========================= -->
 
-## Skills
+<script id="profile-data" type="application/json">
+{
+  "name": "Akshat Raj",
+  "role": "AI Engineer",
+  "founder": "OnePersonAI",
+  "skills": {
+    "ai": ["Machine Learning", "Deep Learning", "NLP", "Transformers", "PyTorch", "TensorFlow"],
+    "backend": ["FastAPI", "Flask", "Node.js", "MongoDB"],
+    "frontend": ["React", "Next.js", "TypeScript"],
+    "cloud": ["AWS", "Vercel", "Render"]
+  },
+  "projects": [
+    { "name": "Emotion Detection AI", "stack": ["TensorFlow", "NLP", "Python"] },
+    { "name": "Heart Disease Prediction", "stack": ["Sklearn", "Streamlit"] },
+    { "name": "AkshaBot", "stack": ["FastAPI", "NLP"] },
+    { "name": "OnePersonAI Website", "stack": ["Next.js", "TailwindCSS"] }
+  ]
+}
+</script>
 
-### Artificial Intelligence & ML
-- Python, PyTorch, TensorFlow, Scikit-learn  
-- NLP, Transformers, Embeddings, RAG  
-- OpenCV, Data Cleaning, Model Training & Deployment  
 
-### Backend Development
-- FastAPI, Flask, Node.js, Express  
-- REST APIs, WebSockets  
-- MongoDB, Firebase, SQL Basics  
+<script id="profile-yaml" type="text/yaml">
+name: "Akshat Raj"
+title: "AI Engineer • ML Developer"
+company: "OnePersonAI"
+skills:
+  ai:
+    - Machine Learning
+    - Deep Learning
+    - NLP
+    - Transformers
+    - PyTorch
+    - TensorFlow
+  backend:
+    - FastAPI
+    - Flask
+    - Node.js
+    - MongoDB
+  frontend:
+    - React
+    - Next.js
+    - TypeScript
+  cloud:
+    - AWS
+    - Vercel
+    - Render
 
-### Frontend Development
-- ReactJS, Next.js  
-- TypeScript, TailwindCSS  
-- Clean UI, Component-based design  
+projects:
+  - name: "Emotion Detection AI"
+    tech: ["TensorFlow", "NLP", "Python"]
 
-### Cloud & DevOps
-- AWS, Vercel, Render  
-- Git, GitHub Actions  
-- CI/CD basics, Deployment workflows  
+  - name: "Heart Disease Prediction"
+    tech: ["Sklearn", "Streamlit"]
 
----
+  - name: "AkshaBot"
+    tech: ["FastAPI", "NLP"]
 
-## Projects
+  - name: "OnePersonAI Website"
+    tech: ["Next.js", "TailwindCSS"]
+</script>
 
-### 1. Emotion Detection AI
-- NLP-based text emotion classification  
-- Tech: Python, TensorFlow, Tokenization  
-- Use: sentiment tools, message analysis  
+<!-- ========================= -->
+<!--      REACT UI BLOCK      -->
+<!-- ========================= -->
 
-### 2. Heart Disease Prediction
-- ML model for health risk prediction  
-- Tech: Scikit-learn, Streamlit  
-- Demo available online  
+<div id="app"></div>
 
-### 3. OnePersonAI Website
-- Personal + vision portal  
-- Clean minimal UI  
-- Tech: Next.js, TailwindCSS  
+<script type="text/babel">
+  const jsonData = JSON.parse(document.getElementById("profile-data").innerHTML);
 
-### 4. AkshaBot – Lightweight AI Assistant
-- Custom NLP response system  
-- Tech: Python, FastAPI  
+  const App = () => (
+    <div>
+      <h1>{jsonData.name}</h1>
+      <h2>{jsonData.role} • Founder – {jsonData.founder}</h2>
 
----
+      <div className="section">
+        <h2>Skills</h2>
+        {Object.entries(jsonData.skills).map(([cat, list]) => (
+          <div className="card" key={cat}>
+            <strong>{cat.toUpperCase()}</strong><br /><br />
+            {list.map(skill => <span key={skill} className="tag">{skill}</span>)}
+          </div>
+        ))}
+      </div>
 
-## Certifications
-- AWS Cloud  
-- Google AI & ML  
-- Microsoft Azure AI  
-- Intermediate Python + ML  
+      <div className="section">
+        <h2>Projects</h2>
+        {jsonData.projects.map(p => (
+          <div className="card" key={p.name}>
+            <strong>{p.name}</strong><br /><br />
+            {p.stack.map(s => <span key={s} className="tag">{s}</span>)}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
 
----
+  ReactDOM.render(<App />, document.getElementById("app"));
+</script>
 
-## Philosophy
-> “Good AI is simple, stable, and silently useful.”
+<!-- React CDN -->
+<script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
----
-
-## Contact
-- Portfolio: https://akshat-raj-portfolio-lfy7.vercel.app  
-- GitHub: https://github.com/AkshatRaj00  
-- LinkedIn: https://linkedin.com/in/akshatraj00  
-- Email: akshat@onepersonai.com  
-
----
-
-## SEO (Minimal)
-Akshat Raj, AI Engineer, Machine Learning, Deep Learning, Python, FastAPI, Next.js, OnePersonAI, AkshatRaj00
+</body>
+</html>
