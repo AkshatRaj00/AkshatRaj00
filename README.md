@@ -1,7 +1,7 @@
 <div align="center">
 
 # AKSHAT RAJ 
-AkshatRaj00S
+AkshatRaj00
 ### Founder & AI Engineer @ OnePersonAI
 
 </div>
