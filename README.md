@@ -1,116 +1,105 @@
-# AKSHAT RAJ 🚀  
-### Founder @ OnePersonAI | AI Engineer | Building Emotion-Aware AGI Systems
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Building+AI+That+Understands+Humans;Founder+of+OnePersonAI;Emotion-Aware+Artificial+Intelligence;Future+AGI+Engineer;Turning+Ideas+into+Impact" />
-</p>
+# AKSHAT RAJ
+### Founder & AI Engineer @ OnePersonAI
 
----
-
-## 🌍 About Me
-
-Hi, I'm **Akshat Raj**, an AI Engineer and Full-Stack Developer from India 🇮🇳.  
-I am the founder of **OnePersonAI**, building next-generation AI systems that go beyond logic — towards **emotion, awareness, and human-like understanding**.
-
-💡 My mission:  
-> To build AI that doesn't just think — but understands.
+</div>
 
 ---
 
-## 🚀 What I’m Building
+## About
 
-- 🧠 Emotion-Aware AI Systems  
-- 🤖 AI Chatbots with Real Understanding  
-- 🌐 Full-Stack AI Products  
-- ⚡ Personal AI Ecosystem (OnePersonAI)
+Akshat Raj is an AI Engineer and Founder of OnePersonAI, focused on building next-generation artificial intelligence systems that integrate cognition, emotion, and real-world utility.
 
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-- Python, JavaScript, C++, C
-
-### 🌐 Frontend
-- React.js, Next.js, Tailwind CSS
-
-### ⚙️ Backend
-- Node.js, Express.js, FastAPI, Flask
-
-### 🧠 AI / ML
-- TensorFlow, PyTorch, Scikit-learn, OpenCV
-
-### ☁️ Tools
-- Git, Docker, AWS, MongoDB
+The work centers on designing scalable AI products that move beyond automation toward understanding — systems that interact, adapt, and evolve with human needs.
 
 ---
 
-## 🔥 Featured Projects
+## Company
 
-### 🚀 OnePersonAI Platform
-- Personal AI ecosystem
-- AI-powered tools & systems  
-🔗 https://onepersonai.in
+**OnePersonAI**
 
----
+An AI-focused product company developing intelligent systems, tools, and platforms aimed at building a personal AI ecosystem.
 
-### ❤️ Heart Disease Prediction
-- Machine Learning healthcare app  
-- Built with Python & Streamlit  
-🔗 https://heart-diseaseprediction.streamlit.app/
+- AI Products
+- Applied Machine Learning Systems
+- Intelligent Automation Platforms
+- Human-AI Interaction Research
 
 ---
 
-### ✅ Ultimate To-Do App
-- Advanced productivity system  
-- Clean UI + smart features  
-🔗 https://akshatraj00.github.io/ultimate-todo-app/
+## Core Work
+
+- Emotion-aware AI systems  
+- AI-driven product development  
+- Full-stack AI applications  
+- Machine learning systems for real-world use  
 
 ---
 
-## 📊 GitHub Stats
+## Technology
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&theme=radical&hide_border=true" width="48%" />
-</p>
+**Languages**  
+Python, JavaScript, C++, C  
 
----
+**Frontend**  
+React, Next.js, Tailwind  
 
-## 🧠 Current Focus
+**Backend**  
+Node.js, Express, FastAPI, Flask  
 
-- Building Emotion-Based AI  
-- Scaling OnePersonAI  
-- Creating Real-World AI Products  
-- Mastering System Design + DSA  
+**AI / ML**  
+TensorFlow, PyTorch, OpenCV, Scikit-learn  
 
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/akshatraj00  
-- 🌍 Portfolio: https://onepersonai.in  
-- 📧 Email: akshat@onepersonai.com  
-- 🐙 GitHub: https://github.com/AkshatRaj00  
+**Infrastructure**  
+AWS, Docker, MongoDB  
 
 ---
 
-## ⚡ Vision
+## Selected Work
 
-> "The future of AI is not just intelligence — it's understanding."
+**OnePersonAI Platform**  
+https://onepersonai.in  
 
-I’m not just building projects.  
-I’m building a system. A brand. A future.
+**Heart Disease Prediction System**  
+https://heart-diseaseprediction.streamlit.app  
 
----
-
-## 🏆 Goals
-
-- 🚀 Build a Global AI Company  
-- 🧠 Contribute to AGI Development  
-- 🌍 Make OnePersonAI globally recognized  
-- 💼 Achieve Top-Tier Tech Career  
+**Ultimate To-Do Application**  
+https://akshatraj00.github.io/ultimate-todo-app  
 
 ---
 
-⭐ **If you like my work, consider following me — let’s build something extraordinary.**
+## GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&hide_border=true" width="48%" />
+
+</div>
+
+---
+
+## Direction
+
+- Building scalable AI systems  
+- Expanding OnePersonAI as a product company  
+- Developing applied AGI concepts  
+- Engineering AI with real-world impact  
+
+---
+
+## Contact
+
+LinkedIn: https://linkedin.com/in/akshatraj00  
+Website: https://onepersonai.in  
+Email: akshat@onepersonai.com  
+GitHub: https://github.com/AkshatRaj00  
+
+---
+
+## Statement
+
+Building systems, not just projects.  
+Designing intelligence, not just code.  
+OnePersonAI is not a portfolio — it is a company in progress.
