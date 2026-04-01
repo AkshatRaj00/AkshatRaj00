@@ -1,8 +1,22 @@
 <div align="center">
 
-# AKSHAT RAJ 
-AkshatRaj00
-### Founder & AI Engineer @ OnePersonAI
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1200&color=111111&center=true&vCenter=true&width=700&lines=Akshat+Raj;Founder+%40+OnePersonAI;Building+Real+AI+Systems" />
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://onepersonai.in">
+  <img src="https://img.shields.io/badge/Company-OnePersonAI-000000?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/akshatraj00">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-000000?style=for-the-badge" />
+</a>
+<a href="mailto:akshat@onepersonai.com">
+  <img src="https://img.shields.io/badge/Email-Contact-000000?style=for-the-badge" />
+</a>
 
 </div>
 
@@ -10,67 +24,26 @@ AkshatRaj00
 
 ## About
 
-Akshat Raj is an AI Engineer and Founder of OnePersonAI, focused on building next-generation artificial intelligence systems that integrate cognition, emotion, and real-world utility.
-
-The work centers on designing scalable AI products that move beyond automation toward understanding — systems that interact, adapt, and evolve with human needs.
+AI Engineer & Founder building scalable AI systems and real-world products through **OnePersonAI**.
 
 ---
 
-## Company
+## Stack
 
-**OnePersonAI**
-
-An AI-focused product company developing intelligent systems, tools, and platforms aimed at building a personal AI ecosystem.
-
-- AI Products
-- Applied Machine Learning Systems
-- Intelligent Automation Platforms
-- Human-AI Interaction Research
+`Python` `JavaScript` `C++`  
+`React` `Next.js` `Node.js`  
+`TensorFlow` `PyTorch` `OpenCV`  
+`AWS` `Docker` `MongoDB`
 
 ---
 
-## Core Work
+## Work
 
-- Emotion-aware AI systems  
-- AI-driven product development  
-- Full-stack AI applications  
-- Machine learning systems for real-world use  
-
----
-
-## Technology
-
-**Languages**  
-Python, JavaScript, C++, C  
-
-**Frontend**  
-React, Next.js, Tailwind  
-
-**Backend**  
-Node.js, Express, FastAPI, Flask  
-
-**AI / ML**  
-TensorFlow, PyTorch, OpenCV, Scikit-learn  
-
-**Infrastructure**  
-AWS, Docker, MongoDB  
+- https://onepersonai.in  
+- https://heart-diseaseprediction.streamlit.app  
+- https://akshatraj00.github.io/ultimate-todo-app  
 
 ---
-
-## Selected Work
-
-**OnePersonAI Platform**  
-https://onepersonai.in  
-
-**Heart Disease Prediction System**  
-https://heart-diseaseprediction.streamlit.app  
-
-**Ultimate To-Do Application**  
-https://akshatraj00.github.io/ultimate-todo-app  
-
----
-
-## GitHub
 
 <div align="center">
 
@@ -78,29 +51,3 @@ https://akshatraj00.github.io/ultimate-todo-app
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&hide_border=true" width="48%" />
 
 </div>
-
----
-
-## Direction
-
-- Building scalable AI systems  
-- Expanding OnePersonAI as a product company  
-- Developing applied AGI concepts  
-- Engineering AI with real-world impact  
-
----
-
-## Contact
-
-LinkedIn: https://linkedin.com/in/akshatraj00  
-Website: https://onepersonai.in  
-Email: akshat@onepersonai.com  
-GitHub: https://github.com/AkshatRaj00  
-
----
-
-## Statement
-
-Building systems, not just projects.  
-Designing intelligence, not just code.  
-OnePersonAI is not a portfolio — it is a company in progress.
