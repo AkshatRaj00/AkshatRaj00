@@ -1,11 +1,3 @@
-Bhai samajh gaya — README.md me hi sab kuch chahiye, koi extra setup nahi, koi GitHub Actions nahi.
-
-Lekin ek important baat — woh screenshot wala exact design (commit time graph, isometric 3D calendar, PageSpeed scores, Apple Music tracks) — yeh sab sirf lowlighter/metrics tool se hi banta hai, README markdown se nahi ban sakta. Yeh externally generated SVG hoti hai.
-
-Jo README me HO SAKTA HAI — woh de raha hoon
-Wahi same feel — dark, data-rich, metrics-style — but GitHub-supported widgets se:
-
-text
 <!--
 AKSHAT RAJ | akshatraj00 | AkshatRaj00 GitHub | akshatgyan2004
 AI Engineer India | Full Stack Developer India | Flutter Developer India
@@ -34,8 +26,8 @@ Open to internship India 2026 | Open source contributor India
 
 ![](https://img.shields.io/badge/📍_Indore,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A)
 ![](https://img.shields.io/badge/🏢_OnePersonAI_Founder-0D1117?style=flat-square&logo=openai&logoColor=00D26A)
-![](https://img.shields.io/badge/🎓_B.Tech_6th_Sem-0D1117?style=flat-square&logo=academia&logoColor=00D26A)
-![](https://img.shields.io/badge/💼_Open_to_Internship-00D26A?style=flat-square)
+![](https://img.shields.io/badge/-0D1117?style=flat-square&logo=academia&logoColor=00D26A)
+![](https://img.shields.io/badge/-00D26A?style=flat-square)
 
 ![followers](https://img.shields.io/github/followers/AkshatRaj00?label=Followers&style=flat-square&color=00D26A&logo=github&logoColor=white)
 ![stars](https://img.shields.io/github/stars/AkshatRaj00?label=Stars&style=flat-square&color=FFD700&logo=github&logoColor=white)
@@ -58,8 +50,8 @@ Open to internship India 2026 | Open source contributor India
 <td width="42%" valign="top">
 
 **📋 Profile Overview**
-🗓️ Joined GitHub → 2022
-📦 Repositories → 28+
+🗓️ Joined GitHub → 2023
+📦 Repositories → 40+
 ⭐ Stargazers → Growing
 🍴 Forks → Growing
 👁️ Watchers → Growing
@@ -67,7 +59,6 @@ Open to internship India 2026 | Open source contributor India
 🌐 Website → onepersonai.in
 👥 Followed by → Growing
 
-text
 
 ---
 
@@ -186,3 +177,4 @@ text
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D26A,50:0a2a1a,100:0D1117&height=90&section=footer"/>
 </div>
+![isocalendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatRaj00&theme=github_dark)
