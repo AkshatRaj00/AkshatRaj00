@@ -14,7 +14,7 @@
 &nbsp;
 ![Freelance](https://img.shields.io/badge/%F0%9F%92%BC_FREELANCE_AVAILABLE-1E2235?style=for-the-badge&labelColor=2a3050)
 &nbsp;
-![India](https://img.shields.io/badge/Made_in_India_%F0%9F%87%AE%F0%9F%87%B3-1E2235?style=for-the-badge)
+![India](https://img.shields.io/badge/India_%F0%9F%87%AE%F0%9F%87%B3-1E2235?style=for-the-badge)
 
 </div>
 
@@ -26,7 +26,7 @@
 📍  Indore, Madhya Pradesh, IN
 🏢  Founder @ OnePersonAI
 💼  Open to Internships
-📅  On GitHub since 2022
+📅  On GitHub since 2023
 📫  akshatgyan2004@gmail.com
 🌐  onepersonai.in
 ```
