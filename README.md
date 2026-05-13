@@ -27,8 +27,8 @@ Emotion Detection AI | Flood Forecast AI | OneMusic Flutter
 
 ![](https://img.shields.io/badge/📍_Indore,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A)
 ![](https://img.shields.io/badge/🏢_OnePersonAI_Founder-0D1117?style=flat-square&logo=openai&logoColor=00D26A)
-![](https://img.shields.io/badge/🎓_B.Tech_6th_Sem-0D1117?style=flat-square&logo=academia&logoColor=00D26A)
-![](https://img.shields.io/badge/💼_Open_to_Internship-00D26A?style=flat-square)
+![](https://img.shields.io/badge/_Sem-0D1117?style=flat-square&logo=academia&logoColor=00D26A)
+![](https://img.shields.io/badge/-00D26A?style=flat-square)
 
 ![followers](https://img.shields.io/github/followers/AkshatRaj00?label=Followers&style=flat-square&color=00D26A&logo=github&logoColor=white)
 ![stars](https://img.shields.io/github/stars/AkshatRaj00?label=Stars&style=flat-square&color=FFD700&logo=github&logoColor=white)
@@ -51,8 +51,8 @@ Emotion Detection AI | Flood Forecast AI | OneMusic Flutter
 <td width="34%" valign="top">
 
 **📋 Profile Overview**
-🗓️ Joined GitHub → Dec 2022
-📦 Repositories → 28+
+🗓️ Joined GitHub → 2023
+📦 Repositories → 40+
 ⭐ Stargazers → Growing
 🍴 Forks → Growing
 📄 License → MIT
