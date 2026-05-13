@@ -4,9 +4,10 @@ AI Engineer India | Full Stack Developer India | Flutter Developer India
 Next.js Developer Indore | Python FastAPI Developer India
 Firebase Flutter Developer | Machine Learning Engineer India
 TensorFlow OpenCV Developer | Deep Learning Engineer India
-Hire AI Developer India | Hire Flutter Developer India
+Hire AI Developer India | Hire Flutter Developer India | Freelance AI Developer India
 OnePersonAI | onepersonai.in | Founder OnePersonAI
 Open to internship India 2026 | Open source contributor India
+Emotion Detection AI | Flood Forecast AI | OneMusic Flutter
 -->
 
 <div align="center">
@@ -18,7 +19,7 @@ Open to internship India 2026 | Open source contributor India
 <table width="100%" border="0" cellspacing="0" cellpadding="6">
 <tr>
 
-<td width="28%" valign="top">
+<td width="33%" valign="top">
 
 **AkshatRaj00**
 
@@ -26,8 +27,8 @@ Open to internship India 2026 | Open source contributor India
 
 ![](https://img.shields.io/badge/📍_Indore,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D26A)
 ![](https://img.shields.io/badge/🏢_OnePersonAI_Founder-0D1117?style=flat-square&logo=openai&logoColor=00D26A)
-![](https://img.shields.io/badge/-0D1117?style=flat-square&logo=academia&logoColor=00D26A)
-![](https://img.shields.io/badge/-00D26A?style=flat-square)
+![](https://img.shields.io/badge/🎓_B.Tech_6th_Sem-0D1117?style=flat-square&logo=academia&logoColor=00D26A)
+![](https://img.shields.io/badge/💼_Open_to_Internship-00D26A?style=flat-square)
 
 ![followers](https://img.shields.io/github/followers/AkshatRaj00?label=Followers&style=flat-square&color=00D26A&logo=github&logoColor=white)
 ![stars](https://img.shields.io/github/stars/AkshatRaj00?label=Stars&style=flat-square&color=FFD700&logo=github&logoColor=white)
@@ -43,44 +44,51 @@ Open to internship India 2026 | Open source contributor India
 
 **📊 Coding Habits**
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF&area=true&hide_border=true&height=160)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </td>
 
-<td width="42%" valign="top">
+<td width="34%" valign="top">
 
 **📋 Profile Overview**
-🗓️ Joined GitHub → 2023
-📦 Repositories → 40+
+🗓️ Joined GitHub → Dec 2022
+📦 Repositories → 28+
 ⭐ Stargazers → Growing
 🍴 Forks → Growing
-👁️ Watchers → Growing
 📄 License → MIT
 🌐 Website → onepersonai.in
-👥 Followed by → Growing
+✍️ Blog → DEV.to + Medium
+👨‍💻 Member → Dev Program
 
+text
 
 ---
 
 **🔥 Streak & Contributions**
 
-![streak](https://github-readme-streak-stats.herokuapp.com?user=AkshatRaj00&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&background=0D1117&sideLabels=00D26A&dates=c9d1d9&stroke=0D1117)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AkshatRaj00&hide_border=true&ring=00D26A&fire=00D26A&currStreakLabel=00D26A&background=0D1117&sideLabels=00D26A&dates=c9d1d9&stroke=0D1117" width="100%"/>
 
 ---
 
 **📊 GitHub Stats**
 
-![stats](https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00D26A&icon_color=00D26A&text_color=c9d1d9&bg_color=0D1117&rank_icon=github)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshatRaj00&theme=github_dark" width="100%"/>
 
 ---
 
 **💻 Most Used Languages**
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&hide_border=true&title_color=00D26A&text_color=c9d1d9&bg_color=0D1117&langs_count=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshatRaj00&theme=github_dark" width="100%"/>
+
+---
+
+**📈 Contribution Overview**
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatRaj00&theme=github_dark" width="100%"/>
 
 </td>
 
-<td width="30%" valign="top">
+<td width="33%" valign="top">
 
 **🛠️ Mastered Technologies**
 
@@ -92,18 +100,23 @@ Open to internship India 2026 | Open source contributor India
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
@@ -177,4 +190,3 @@ Open to internship India 2026 | Open source contributor India
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D26A,50:0a2a1a,100:0D1117&height=90&section=footer"/>
 </div>
-![isocalendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshatRaj00&theme=github_dark)
