@@ -67,16 +67,20 @@ I design and ship complete digital systems across AI, automation, full-stack eng
 
 **Currently in the loop:**
 
-- 🤖 Autonomous AI workflows
-- ⚙️ High-performance backend systems
-- 🎨 3D interactive interfaces
-- 🔐 Security engineering tools
-- ☁️ Cloud-native infrastructure
-- 📱 Production mobile apps
+- 🤖 Autonomous AI workflows — agents that plan, call tools, and recover from failure on their own
+- ⚙️ High-performance backend systems — Rust and Go services built for throughput, not just demos
+- 🎨 3D interactive interfaces — Three.js experiences that feel alive, not static pages
+- 🔐 Security engineering tools — scanners and bots that catch real threats in real time
+- ☁️ Cloud-native infrastructure — Dockerized, CI/CD-driven, built to survive production traffic
+- 📱 Production mobile apps — Flutter builds shipped to real users, not just prototypes
+
+One person, full stack, end to end — from the first line of code to the deployed release.
 
 </td>
 <td width="45%" valign="top" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation" />
+<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%" alt="Developer building animation" />
 </td>
 </tr>
 </table>
