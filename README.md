@@ -1,173 +1,145 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:111827,100:312E81&text=AKSHAT%20RAJ&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=SYSTEMS%20ENGINEER%20%20%7C%20AI%20BUILDER%20%20%7C%20FOUNDER&descAlignY=60&descSize=16&animation=fadeIn"/>
+<br>
 
-<br/>
+# Akshat Raj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+intelligent+systems.;Engineering+AI+%2B+automation.;Rust+%7C+Go+%7C+Python+%7C+TypeScript;Turning+ideas+into+production+systems."/>
+### Systems Engineer · AI Builder · Founder
 
-<br/><br/>
+Building intelligent systems, developer tools, and digital products.
+
+<br>
 
 <a href="https://github.com/AkshatRaj00">
-<img src="https://img.shields.io/badge/GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://akshat-raj-portfolio-lfy7.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-0B0F19?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:akshatgyan2004@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-0B0F19?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br><br>
 
-<br/>
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=888888&center=true&vCenter=true&width=700&lines=Designing+systems+that+scale.;Building+AI-powered+products.;Engineering+software+with+purpose."
+/>
+
+</div>
 
 ---
 
+## About
+
+I'm **Akshat Raj**, a systems-focused developer and founder interested in the intersection of **AI, automation, high-performance software and modern web experiences**.
+
+I like taking complex ideas, reducing them to simple systems, and turning those systems into products people can actually use.
+
+<br>
+
 <div align="center">
 
-### `I BUILD SYSTEMS, NOT JUST SOFTWARE.`
+### `Build less. Build better.`
 
 </div>
 
-<br/>
+---
+
+## What I Work On
 
 <table>
 <tr>
-<td width="55%" valign="top">
 
-## About
+<td width="25%" align="center">
 
-I'm **Akshat Raj**, a systems-focused developer and founder working at the intersection of **AI, automation, high-performance software and modern web experiences**.
+### Systems
 
-I enjoy turning complex ideas into practical products — from autonomous workflows and intelligent applications to developer tools and interactive interfaces.
-
-```text
-FOCUS
-─────────────────────────────
-AI & Intelligent Automation
-Systems Engineering
-Full-Stack Development
-3D / Interactive Web
-Cloud Infrastructure
-Security Engineering
-````
+Rust  
+Go  
+Python  
+C / C++
 
 </td>
 
-<td width="45%" valign="top">
+<td width="25%" align="center">
 
-## Current State
+### AI
 
-```text
-● SYSTEM       ONLINE
-● BUILDING     ACTIVE
-● AI           ACTIVE
-● AUTOMATION   ACTIVE
-● OPEN SOURCE  ACTIVE
-● CLOUD        DEPLOYED
-```
-
-<br/>
-
-**Core**
-
-`Rust` `Go` `Python` `TypeScript`
-
-**Build**
-
-`React` `Next.js` `Node.js` `Three.js`
-
-**Infra**
-
-`Linux` `Docker` `AWS`
+LLMs  
+Agents  
+Automation  
+AI APIs
 
 </td>
+
+<td width="25%" align="center">
+
+### Product
+
+React  
+Next.js  
+Node.js  
+Three.js
+
+</td>
+
+<td width="25%" align="center">
+
+### Infrastructure
+
+Linux  
+Docker  
+AWS  
+Git
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-<div align="center">
-
-## TECHNOLOGY
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=rust,go,python,cpp,c,ts,js,react,nextjs,nodejs,threejs,flutter,dart,aws,docker,linux,git,github,firebase,supabase&perline=10&theme=dark"/>
-
-</div>
-
-<br/>
-
----
-
 ## Selected Work
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ### OnePersonAI
 
-**AI · Automation · Digital Systems**
+**AI · Automation · Digital Products**
 
-A technology ecosystem focused on intelligent software, autonomous workflows and practical AI-powered products.
+Building an ecosystem around intelligent software, automation and practical AI applications.
 
-`Next.js` `Node.js` `AI APIs`
+`Next.js` · `Node.js` · `AI APIs`
 
-<br/>
+→ [Explore OnePersonAI](https://onepersonai.in)
 
-<a href="https://onepersonai.in">
-<img src="https://img.shields.io/badge/EXPLORE-38BDF8?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### KBFixer
 
 **Document Processing · Web Engineering**
 
-A high-performance web platform focused on PDF and presentation processing.
+A high-performance platform for processing and optimizing PDF and presentation files.
 
-`Next.js` `TypeScript` `Web APIs`
+`Next.js` · `TypeScript` · `Web APIs`
 
-<br/>
+→ [Open KBFixer](https://kbfixer.onepersonai.in)
 
-<a href="https://kbfixer.onepersonai.in">
-<img src="https://img.shields.io/badge/VISIT-38BDF8?style=flat-square&logo=vercel&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### OneMusic
 
-**Flutter · Android · Open Source**
+**Mobile · Open Source · Music**
 
-A modern music application built around a clean and efficient mobile experience.
+A modern music application focused on a fast and simple Android experience.
 
-`Flutter` `Dart` `Android` `Firebase`
+`Flutter` · `Dart` · `Firebase`
 
-<br/>
+→ [View GitHub](https://github.com/AkshatRaj00)
 
-<a href="https://github.com/AkshatRaj00">
-<img src="https://img.shields.io/badge/SOURCE-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### Jeev Sahay
 
@@ -175,159 +147,89 @@ A modern music application built around a clean and efficient mobile experience.
 
 An intelligent assistance platform designed around emergency support and accessible digital workflows.
 
-`Next.js` `Tailwind` `AI`
+`Next.js` · `Tailwind CSS` · `AI`
 
-<br/>
-
-<a href="https://github.com/AkshatRaj00">
-<img src="https://img.shields.io/badge/PROJECT-8B5CF6?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+→ [View Projects](https://github.com/AkshatRaj00)
 
 ---
 
+## Technology
+
 <div align="center">
 
-## SYSTEM ARCHITECTURE
-
-```text
-                         USER
-                          │
-                          ▼
-              ┌─────────────────────┐
-              │   EXPERIENCE LAYER  │
-              │ React / Next / 3D   │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │      API LAYER      │
-              │ Node / Go / REST    │
-              └──────────┬──────────┘
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-      ┌───────────────┐     ┌───────────────┐
-      │ AI / AGENTS   │     │ SYSTEMS CORE  │
-      │ LLMs / Tools  │     │ Rust / C++ / Go│
-      └───────┬───────┘     └───────┬───────┘
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-              ┌─────────────────────┐
-              │    DATA / CLOUD     │
-              │ AWS / Firebase / DB │
-              └─────────────────────┘
-```
+<img src="https://skillicons.dev/icons?i=rust,go,python,cpp,typescript,javascript,react,nextjs,nodejs,threejs,flutter,aws,docker,linux,git,github,firebase,supabase&perline=9&theme=light" />
 
 </div>
 
 ---
 
+## GitHub
+
 <div align="center">
 
-## GITHUB ACTIVITY
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=666666&icon_color=111111&count_private=true&include_all_commits=true"
+  width="49%"
+/>
 
-<br/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=666666"
+  width="49%"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=8B5CF6&text_color=CBD5E1&bg_color=00000000&count_private=true&include_all_commits=true"/>
+<br><br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1&bg_color=00000000"/>
-
-<br/><br/>
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&hide_border=true&background=00000000&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&hide_border=true&background=ffffff&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=666666&dates=999999&currStreakNum=111111&sideNums=111111"
+  width="75%"
+/>
 
 </div>
 
 ---
 
+## Contribution Graph
+
 <div align="center">
 
-## CONTRIBUTION FLOW
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/AkshatRaj00/AkshatRaj00/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img
+  src="https://raw.githubusercontent.com/AkshatRaj00/AkshatRaj00/output/github-contribution-grid-snake.svg"
+  width="90%"
+/>
 
 </div>
 
 ---
 
-<table>
-<tr>
+## Currently Exploring
 
-<td width="50%" valign="top">
 
-## Engineering Interests
+Artificial Intelligence
+Autonomous Agents
+Distributed Systems
+Systems Programming
+Cybersecurity
+3D Web Experiences
+Cloud Infrastructure
+Developer Automation
+````
 
-```text
-→ Distributed Systems
-→ Artificial Intelligence
-→ Autonomous Agents
-→ Systems Programming
-→ Cybersecurity
-→ 3D Web
-→ Cloud Architecture
-→ Developer Automation
-```
 
-</td>
-
-<td width="50%" valign="top">
-
-## Philosophy
-
-> Build with purpose.
->
-> Automate what can be automated.
->
-> Understand the system beneath the abstraction.
->
-> Keep learning. Keep shipping.
-
-</td>
-
-</tr>
-</table>
-
----
 
 <div align="center">
 
-## CONNECT
 
-<a href="https://github.com/AkshatRaj00">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
-<a href="https://akshat-raj-portfolio-lfy7.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://www.kaggle.com/akshatraj12">
-<img src="https://img.shields.io/badge/Kaggle-18181B?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
+<a href="https://github.com/AkshatRaj00">GitHub</a>
+  ·   <a href="https://akshat-raj-portfolio-lfy7.vercel.app/">Portfolio</a>
+  ·   <a href="mailto:akshatgyan2004@gmail.com">Email</a>
 
-<a href="https://dev.to/akshatraj00">
-<img src="https://img.shields.io/badge/Dev.to-18181B?style=for-the-badge&logo=devdotto&logoColor=white"/>
-</a>
+<br><br>
 
-<a href="https://akshatraj00.medium.com/">
-<img src="https://img.shields.io/badge/Medium-18181B?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
+<sub>Designed around simplicity, engineering and curiosity.</sub>
 
-<a href="https://x.com/AkshatRaj00_">
-<img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,50:0F172A,100:020617"/>
+<br><br>
 
 </div>
-```
