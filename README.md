@@ -64,7 +64,7 @@ I build high-performance software, AI-powered automation, interactive digital ex
 <br />
 <img src="https://skillicons.dev/icons?i=threejs,flutter,dart,php,laravel&theme=dark&perline=5" alt="Three.js Flutter Dart PHP Laravel" />
 <br />
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,kali,git,github,githubactions&theme=dark&perline=7" alt="AWS Docker Linux Kali Git GitHub GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,kali,git,githubactions&theme=dark&perline=6" alt="AWS Docker Linux Kali Git GitHub Actions" />
 <br />
 <img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&theme=dark&perline=3" alt="Firebase Supabase PostgreSQL" />
 
@@ -82,10 +82,6 @@ I build high-performance software, AI-powered automation, interactive digital ex
 
 AI, automation, digital products, and intelligent software systems.
 
-<div>
-  <code>Next.js</code> <code>Node.js</code> <code>AI APIs</code> <code>Automation</code>
-</div>
-
 <a href="https://onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20PLATFORM-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Open OnePersonAI" /></a>
 
 </td>
@@ -96,10 +92,6 @@ AI, automation, digital products, and intelligent software systems.
 **High-Performance Document Engine**
 
 Efficient PDF and presentation processing with a focus on speed and usability.
-
-<div>
-  <code>Next.js</code> <code>TypeScript</code> <code>Web APIs</code>
-</div>
 
 <a href="https://kbfixer.onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20KBFIXER-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open KBFixer" /></a>
 
@@ -112,11 +104,7 @@ Efficient PDF and presentation processing with a focus on speed and usability.
 
 **Open Music Streaming Platform**
 
-A Flutter-based music application focused on a clean, fast Android experience.
-
-<div>
-  <code>Flutter</code> <code>Dart</code> <code>Android</code> <code>Firebase</code>
-</div>
+Flutter-based music application focused on a clean, fast Android experience.
 
 <a href="https://github.com/AkshatRaj00"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View source code" /></a>
 
@@ -128,10 +116,6 @@ A Flutter-based music application focused on a clean, fast Android experience.
 **Intelligent Emergency Assistance**
 
 A platform designed around emergency assistance and intelligent support workflows.
-
-<div>
-  <code>Next.js</code> <code>Tailwind CSS</code> <code>AI Workflows</code>
-</div>
 
 <a href="https://jeevsahay.in"><img src="https://img.shields.io/badge/OPEN%20PLATFORM-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Jeev Sahay" /></a>
 
@@ -149,9 +133,7 @@ INTERACTIVE UI  →  React · Next.js · Three.js
   │
   ▼
 API LAYER       →  Node.js · Go
-  │
   ├──────────────→ INTELLIGENCE  →  LLMs · Agents
-  │
   └──────────────→ SYSTEMS CORE  →  Rust · C++
                          │
                          ▼
@@ -165,20 +147,43 @@ API LAYER       →  Node.js · Go
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used programming languages" />
+<a href="https://github.com/AkshatRaj00?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
+<a href="https://github.com/AkshatRaj00?tab=activity"><img src="https://img.shields.io/badge/ACTIVITY-VIEW-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" /></a>
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                    LIVE BUILD TELEMETRY                    │
+├────────────────────────────────────────────────────────────┤
+│  PROFILE      :: AkshatRaj00                               │
+│  MODE         :: BUILDING                                  │
+│  PIPELINE     :: IDEA → CODE → DEPLOY                      │
+│  FOCUS        :: AI · SYSTEMS · AUTOMATION                 │
+│  RELEASE      :: CONTINUOUS                                │
+│  SIGNAL       :: ████████████████████████████  ONLINE       │
+└────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-## 🐍 CONTRIBUTION EXECUTION TRACE
+## 🟩 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-[![Contribution Snake](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/example/github-contribution-grid-snake.svg)](https://github.com/AkshatRaj00)
+[![GitHub contribution calendar](https://img.shields.io/badge/CONTRIBUTION%20CALENDAR-OPEN%20PROFILE-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkshatRaj00)
+
+```text
+RECENT ACTIVITY MATRIX
+
+🟩 🟩 🟨 🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟨 🟩 🟩
+🟩 🟨 🟩 🟩 🟩 🟩 🟨 🟩 🟩 🟨 🟩 🟩 🟩 🟩
+🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟨 🟩
+🟨 🟩 🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟨 🟩 🟩 🟩
+🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟨 🟩 🟩 🟩 🟩 🟩 🟨
+
+└── active development signal · open profile for live GitHub graph
+```
 
 </div>
-
-> If the snake service is unavailable, your normal GitHub contribution graph remains visible directly on your profile.
 
 ## 🏗️ CURRENTLY BUILDING
 
