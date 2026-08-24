@@ -10,12 +10,6 @@
   <a href="mailto:akshatgyan2004@gmail.com"><img src="https://img.shields.io/badge/CONTACT-DIRECT-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Akshat Raj" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/STATUS-SHIPPING-00C853?style=flat-square" alt="Shipping status" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-7C3AED?style=flat-square" alt="AI and systems focus" />
-  <img src="https://img.shields.io/badge/MODE-BUILD%20%26%20AUTOMATE-06B6D4?style=flat-square" alt="Build and automate mode" />
-</p>
-
 </div>
 
 ## 🖥️ SYSTEM CONSOLE
@@ -55,15 +49,15 @@ I design and ship complete digital systems across AI, automation, full-stack eng
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,go,py,cpp,c&theme=dark&perline=5" alt="Rust Go Python C++ C" />
+<img src="https://skillicons.dev/icons?i=rust,go,py,cpp,c&theme=dark&perline=5" alt="Rust Go Python C++ C icons" />
 <br />
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express&theme=dark&perline=6" alt="TypeScript JavaScript React Next.js Node.js Express" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express&theme=dark&perline=6" alt="TypeScript JavaScript React Next.js Node.js Express icons" />
 <br />
-<img src="https://skillicons.dev/icons?i=threejs,flutter,dart,php,laravel&theme=dark&perline=5" alt="Three.js Flutter Dart PHP Laravel" />
+<img src="https://skillicons.dev/icons?i=threejs,flutter,dart,php,laravel&theme=dark&perline=5" alt="Three.js Flutter Dart PHP Laravel icons" />
 <br />
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,kali,git,githubactions&theme=dark&perline=6" alt="AWS Docker Linux Kali Git GitHub Actions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,kali,git,githubactions&theme=dark&perline=6" alt="AWS Docker Linux Kali Git GitHub Actions icons" />
 <br />
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&theme=dark&perline=3" alt="Firebase Supabase PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&theme=dark&perline=3" alt="Firebase Supabase PostgreSQL icons" />
 
 </div>
 
@@ -119,6 +113,24 @@ Digital workflows designed for support, accessibility, and intelligent assistanc
 </td>
 </tr>
 </table>
+
+## 🐉 KALI-STYLE TERMINAL
+
+> A visual terminal mockup for the profile. It is not an executable shell.
+
+```text
+┌──(akshat㉿onepersonai)-[~/systems]
+└─$ whoami
+akshat
+
+┌──(akshat㉿onepersonai)-[~/systems]
+└─$ ls --color=auto projects/
+  onepersonai/   kbfixer/   onemusic/   jeev-sahay/
+
+┌──(akshat㉿onepersonai)-[~/systems]
+└─$ printf 'status: ONLINE | mode: BUILDING\n'
+status: ONLINE | mode: BUILDING
+```
 
 ## 🧬 SYSTEM FLOW
 
