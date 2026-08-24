@@ -1,37 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=AKSHAT%20RAJ&fontSize=56&fontColor=ffffff&animation=fadeIn&stroke=36BCF7&strokeWidth=2&color=0D1117" alt="Akshat Raj" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=AKSHAT%20RAJ&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SYSTEMS%20ENGINEER%20%20%7C%20%20AI%20BUILDER%20%20%7C%20%20AUTOMATION%20ARCHITECT&descAlignY=62&descSize=16&color=gradient&customColorList=2,6,12,20" alt="Akshat Raj profile header" />
 
-<h3>Systems Engineer · AI Builder · Automation Architect</h3>
-
-<p>Turning ambitious ideas into fast, reliable and intelligent digital products.</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Founder+%40+OnePersonAI;Systems+Engineer+%7C+AI+%26+Automation;Rust+%7C+Go+%7C+Python+%7C+TypeScript;Three.js+%7C+WebGL+%7C+Cloud+Infrastructure;Building+Autonomous+Digital+Systems;Engineering+Ideas+Into+Production" alt="Animated introduction" />
 
 <p>
-  <a href="https://onepersonai.in"><img src="https://img.shields.io/badge/OnePersonAI-111827?style=for-the-badge&logo=robot&logoColor=36BCF7" alt="OnePersonAI" /></a>
-  <a href="https://akshat-raj-portfolio-lfy7.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=8B5CF6" alt="Portfolio" /></a>
-  <a href="mailto:akshatgyan2004@gmail.com"><img src="https://img.shields.io/badge/Contact-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact" /></a>
+  <a href="https://onepersonai.in"><img src="https://img.shields.io/badge/OnePersonAI-FOUNDER-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="OnePersonAI founder" /></a>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20SYSTEMS-7C3AED?style=for-the-badge" alt="AI and systems focus" />
+  <img src="https://img.shields.io/badge/STATUS-SHIPPING-00C853?style=for-the-badge" alt="Currently shipping" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Designing+autonomous+digital+systems;Shipping+AI-powered+products;Engineering+from+kernel+to+cloud;Build.+Automate.+Scale." alt="Animated introduction" />
+<p>
+  <a href="https://github.com/AkshatRaj00"><img src="https://img.shields.io/github/followers/AkshatRaj00?label=Followers&style=flat-square&logo=github" alt="GitHub followers" /></a>
+  <a href="https://github.com/AkshatRaj00?tab=repositories"><img src="https://img.shields.io/github/stars/AkshatRaj00?affiliations=OWNER&style=flat-square&logo=github" alt="GitHub stars" /></a>
+  <a href="mailto:akshatgyan2004@gmail.com"><img src="https://img.shields.io/badge/Email-Direct%20Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Akshat Raj" /></a>
+</p>
 
 </div>
 
-## `01` · Signal
+---
+
+## ⚡ SYSTEM STATUS
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  AKSHAT_RAJ                                                │
-│  status      : shipping                                    │
-│  specialty   : systems + AI + automation                   │
-│  runtime     : Rust · Go · Python · TypeScript              │
-│  interface   : React · Next.js · Three.js · Flutter         │
-│  deployment  : AWS · Docker · Linux                         │
-└─────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────┐
+│           ONEPERSONAI SYSTEM            │
+├─────────────────────────────────────────┤
+│ Architect      → Akshat Raj              │
+│ Core           → OnePersonAI             │
+│ Architecture   → Autonomous / Distributed│
+│ Runtime        → Rust + Go + Python      │
+│ Frontend       → React + Next.js + Three │
+│ AI Layer       → LLMs + Agents           │
+│ Infrastructure → AWS + Docker + Linux    │
+│ Security       → Defensive Research      │
+│ Status         → ███████████████ ONLINE   │
+└─────────────────────────────────────────┘
 ```
 
-I build complete systems—not isolated demos. My work spans product design, backend architecture, automation, developer tooling, cybersecurity research, and cloud deployment.
+</td>
+<td width="50%" valign="top">
 
-## `02` · Selected Systems
+### 🧠 Engineering Philosophy
+
+> Don't just build software. Build systems that can think, adapt and execute.
+
+I build high-performance software, AI-powered automation, interactive digital experiences, and autonomous workflows.
+
+My focus sits at the intersection of systems, intelligence, automation, security, and 3D web experiences.
+
+</td>
+</tr>
+</table>
+
+## 🛠️ CORE TECHNOLOGY MATRIX
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Systems & Performance
+
+`Rust` `Go` `C++` `C` `Python` `Linux`
+
+### 🌐 Full-Stack Engineering
+
+`TypeScript` `JavaScript` `React` `Next.js` `Node.js` `Express` `PHP` `Laravel`
+
+### 🎨 3D & Interactive Web
+
+`Three.js` `WebGL` `Custom Shaders` `Interactive UI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI, Agents & Automation
+
+`LLMs` `AI Agents` `Autonomous Workflows` `AI APIs` `Python Daemons`
+
+### ☁️ Cloud & Infrastructure
+
+`AWS` `Docker` `Linux` `GitHub Actions`
+
+### 🗄️ Data & Platforms
+
+`Firebase` `Supabase` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+## 🚀 FEATURED SYSTEMS
 
 <table>
 <tr>
@@ -39,22 +102,26 @@ I build complete systems—not isolated demos. My work spans product design, bac
 
 ### 🧠 OnePersonAI
 
-An AI and automation ecosystem for building intelligent digital products.
+**Autonomous Digital Ecosystem**
 
-`Next.js` `Node.js` `AI APIs`
+A platform focused on AI, automation, digital products, and intelligent software systems.
 
-[Open platform →](https://onepersonai.in)
+`Next.js` `Node.js` `AI APIs` `Automation`
+
+<a href="https://onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20PLATFORM-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Open OnePersonAI" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📄 KBFixer
 
-A fast document-processing engine for PDFs and presentations.
+**High-Performance Document Engine**
 
-`Next.js` `TypeScript` `Web`
+A web-based system for efficient PDF and presentation processing.
 
-[Open KBFixer →](https://kbfixer.onepersonai.in)
+`Next.js` `TypeScript` `Web APIs`
+
+<a href="https://kbfixer.onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20KBFIXER-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Open KBFixer" /></a>
 
 </td>
 </tr>
@@ -63,81 +130,109 @@ A fast document-processing engine for PDFs and presentations.
 
 ### 🎵 OneMusic
 
-A clean Android music experience built with Flutter and Dart.
+**Open Music Streaming Platform**
 
-`Flutter` `Dart` `Android`
+A Flutter-based music application focused on a clean, fast Android experience.
 
-[Explore GitHub →](https://github.com/AkshatRaj00)
+`Flutter` `Dart` `Android` `Firebase`
+
+<a href="https://github.com/AkshatRaj00"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View OneMusic source" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🚑 Jeev Sahay
 
-A technology platform for emergency assistance and support workflows.
+**Intelligent Emergency Assistance**
 
-`Next.js` `Tailwind` `AI`
+A platform designed around emergency assistance and intelligent support workflows.
 
-[Explore GitHub →](https://github.com/AkshatRaj00)
+`Next.js` `Tailwind CSS` `AI Workflows`
+
+<a href="https://jeevsahay.in"><img src="https://img.shields.io/badge/OPEN%20PLATFORM-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Jeev Sahay" /></a>
 
 </td>
 </tr>
 </table>
 
-## `03` · Build Pipeline
-
-<div align="center">
+## 🧬 ARCHITECTURE MINDSET
 
 ```text
-┌────────┐    ┌────────┐    ┌──────────┐    ┌──────────┐    ┌────────┐
-│  IDEA  │ →  │ DESIGN │ →  │ ENGINEER │ →  │ AUTOMATE │ →  │ SHIP   │
-└────────┘    └────────┘    └──────────┘    └──────────┘    └────────┘
+USER
+  │
+  ▼
+INTERACTIVE UI  →  React · Next.js · Three.js
+  │
+  ▼
+API LAYER       →  Node.js · Go
+  │
+  ├──────────────→ INTELLIGENCE  →  LLMs · Agents
+  │
+  └──────────────→ SYSTEMS CORE  →  Rust · C++
+                         │
+                         ▼
+                    DATA LAYER   →  Firebase · Supabase
+                         │
+                         ▼
+               CLOUD INFRASTRUCTURE → AWS · Docker · Linux
 ```
 
-</div>
-
-| Layer | Tools |
-| --- | --- |
-| Systems | Rust · Go · C++ · C |
-| Product | React · Next.js · Three.js · Flutter |
-| Backend | Node.js · Express · Python · PHP · Laravel |
-| Intelligence | LLMs · Agents · AI APIs · Automation |
-| Infrastructure | AWS · Docker · Linux · GitHub Actions |
-| Data | Firebase · Supabase · PostgreSQL |
-
-## `04` · GitHub Telemetry
+## 📊 GITHUB INTELLIGENCE
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
 
 <br />
 
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
-## `05` · Network
+## 🐍 CONTRIBUTION EXECUTION TRACE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AkshatRaj00/AkshatRaj00/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="90%" />
+
+</div>
+
+## 🏗️ CURRENTLY BUILDING
+
+```text
+[████████████████████████████████] 100%
+
+✓ Autonomous AI Workflows
+✓ High-Performance Backend Systems
+✓ 3D Interactive Interfaces
+✓ Developer Automation
+✓ Cloud-Native Infrastructure
+✓ Security Engineering
+✓ Open-Source Projects
+```
+
+## 🔥 ENGINEERING INTERESTS
+
+`Distributed Systems` · `Artificial Intelligence` · `Autonomous Agents` · `Systems Programming` · `High-Performance Computing` · `Cybersecurity` · `3D Web` · `Developer Infrastructure` · `Cloud Architecture` · `Automation`
+
+## 📡 CONNECT
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-AkshatRaj00-181717?style=for-the-badge&logo=github)](https://github.com/AkshatRaj00)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-36BCF7?style=for-the-badge&logo=vercel)](https://akshat-raj-portfolio-lfy7.vercel.app/)
-[![Hacker News](https://img.shields.io/badge/Hacker_News-AkshatRaj00-FF6600?style=for-the-badge&logo=ycombinator)](https://news.ycombinator.com/user?id=AkshatRaj00)
-[![Kaggle](https://img.shields.io/badge/Kaggle-akshatraj12-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/akshatraj12)
-[![OWASP](https://img.shields.io/badge/OWASP_Nest-AkshatRaj00-F80000?style=for-the-badge&logo=owasp)](https://nest.owasp.org/members/AkshatRaj00)
-[![DEV.to](https://img.shields.io/badge/DEV.to-akshatraj00-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/akshatraj00)
-[![Medium](https://img.shields.io/badge/Medium-akshatraj00-121212?style=for-the-badge&logo=medium)](https://akshatraj00.medium.com/)
 [![X](https://img.shields.io/badge/X-AkshatRaj00_-000000?style=for-the-badge&logo=x)](https://x.com/AkshatRaj00_)
-[![Reddit](https://img.shields.io/badge/Reddit-AkshatRaj00_-FF4500?style=for-the-badge&logo=reddit)](https://www.reddit.com/user/AkshatRaj00_/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-akshatraj00-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/akshatraj00)
+[![OWASP](https://img.shields.io/badge/OWASP_Nest-AkshatRaj00-F80000?style=for-the-badge&logo=owasp)](https://nest.owasp.org/members/AkshatRaj00)
+[![Kaggle](https://img.shields.io/badge/Kaggle-akshatraj12-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/akshatraj12)
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1600&color=8B5CF6&center=true&vCenter=true&width=680&lines=Always+learning;Always+building;Always+shipping" alt="Animated closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+SCALE;Always+learning;Always+building;Always+shipping" alt="Animated closing message" />
 
-<sub>One idea. One system. Real impact.</sub>
+<sub>Engineering intelligent systems, one idea at a time.</sub>
 
 </div>
