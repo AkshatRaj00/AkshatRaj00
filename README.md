@@ -79,8 +79,6 @@ One person, full stack, end to end — from the first line of code to the deploy
 </td>
 <td width="45%" valign="top" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation" />
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%" alt="Developer building animation" />
 </td>
 </tr>
 </table>
