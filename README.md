@@ -220,7 +220,7 @@ Digital workflows designed for support, accessibility, and intelligent assistanc
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&theme=react&hide_border=true" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com/?user=AkshatRaj00&theme=react&hide_border=true" alt="GitHub streak stats" />
 
 <br/>
 
