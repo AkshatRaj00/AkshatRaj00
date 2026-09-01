@@ -215,18 +215,7 @@ Digital workflows designed for support, accessibility, and intelligent assistanc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=react&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=react&hide_border=true" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=AkshatRaj00&theme=react&hide_border=true" alt="GitHub streak stats" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-
-<a href="https://github.com/AkshatRaj00"><img src="https://img.shields.io/badge/OPEN%20REAL%20GITHUB%20ACTIVITY-00C853?style=for-the-badge&logo=github&logoColor=white" alt="Open real GitHub activity" /></a>
 
 </div>
 
