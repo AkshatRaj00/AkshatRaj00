@@ -1,242 +1,100 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=230&section=header&text=AKSHAT%20RAJ&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20SYSTEMS%20%20%E2%80%A2%20%20AUTOMATION%20%20%E2%80%A2%20%20CLOUD&descAlignY=63&descSize=17&color=0:0F172A,50:1E3A8A,100:0EA5E9" alt="Akshat Raj animated header" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=850&color=36BCF7&background=0D1117&center=true&vCenter=true&width=900&lines=Founder+%40+OnePersonAI;Building+autonomous+digital+systems;Shipping+AI-powered+products;Rust+%7C+Go+%7C+Python+%7C+TypeScript;Turning+ideas+into+production" alt="Animated role introduction" />
-
-<p>
-  <a href="https://onepersonai.in"><img src="https://img.shields.io/badge/ONEPERSONAI-EXPLORE-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore OnePersonAI" /></a>
-  <a href="https://akshat-raj-portfolio-lfy7.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-  <a href="mailto:akshatgyan2004@gmail.com"><img src="https://img.shields.io/badge/CONTACT-DIRECT-00C853?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Akshat Raj" /></a>
-</p>
-
-</div>
-
----
-
-## 🖥️ System Console
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**RUNTIME**
-<br/>
-<img src="https://skillicons.dev/icons?i=rust,go,py&theme=dark&perline=3" alt="Rust Go Python" />
-
-**INTERFACE**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter&theme=dark&perline=3" alt="React Next.js Flutter" />
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**INTELLIGENCE**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py&theme=dark&perline=3" alt="LLMs Agents Automation" />
-
-**INFRASTRUCTURE**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark&perline=3" alt="AWS Docker Linux" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://img.shields.io/badge/SIGNAL-ONLINE-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Signal Online" />
-</div>
-
-<div align="center">
-
-### ⚡ Build philosophy
-
-I design and ship complete digital systems across AI, automation, full-stack engineering, mobile apps, cybersecurity research, and cloud infrastructure.
-
-> Build less noise. Ship more signal.
-
-</div>
-
----
-
-## 🎬 Build In Motion
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-**Currently in the loop:**
-
-- 🤖 **Autonomous AI workflows** — agents that plan, call tools, and recover from failure on their own
-- ⚙️ **High-performance backend systems** — Rust and Go services built for throughput, not just demos
-- 🎨 **3D interactive interfaces** — Three.js experiences that feel alive, not static pages
-- 🔐 **Security engineering tools** — scanners and bots that catch real threats in real time
-- ☁️ **Cloud-native infrastructure** — Dockerized, CI/CD-driven, built to survive production traffic
-- 📱 **Production mobile apps** — Flutter builds shipped to real users, not just prototypes
-
-One person, full stack, end to end — from the first line of code to the deployed release.
-
-</td>
-<td width="45%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding animation" />
-</td>
-</tr>
-</table>
-
----
-
-## 🧩 Technology Universe
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=rust,go,py,cpp,c&theme=dark&perline=5" alt="Rust Go Python C++ C icons" />
-<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express&theme=dark&perline=6" alt="TypeScript JavaScript React Next.js Node.js Express icons" />
-<br/>
-<img src="https://skillicons.dev/icons?i=threejs,flutter,dart,php,laravel&theme=dark&perline=5" alt="Three.js Flutter Dart PHP Laravel icons" />
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,kali,git,githubactions&theme=dark&perline=6" alt="AWS Docker Linux Kali Git GitHub Actions icons" />
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&theme=dark&perline=3" alt="Firebase Supabase PostgreSQL icons" />
-
-</div>
-
----
-
-## 🐉 Kali Terminal
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2000&pause=500&color=00FF66&background=0D0D0D&center=true&vCenter=true&repeat=true&width=650&height=50&lines=akshat%40onepersonai%3A~%24+whoami;akshat;akshat%40onepersonai%3A~%24+ls+projects%2F;onepersonai+kbfixer+onemusic+jeev-sahay;akshat%40onepersonai%3A~%24+status+--check;%5BOK%5D+mode%3ABUILDING+uptime%3A99.9%25" alt="Animated Kali-style terminal" />
-</div>
-
----
-
-## 🧬 System Flow
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="120">👤<br/><b>USER</b></td>
-<td align="center">➔</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,flutter&theme=dark&perline=4" alt="Experience layer" /><br/><sub><b>EXPERIENCE</b></sub>
-</td>
-<td align="center">➔</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,go,py&theme=dark&perline=3" alt="API layer" /><br/><sub><b>API LAYER</b></sub>
-</td>
-<td align="center">➔</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark&perline=3" alt="Delivery layer" /><br/><sub><b>DELIVERY</b></sub>
-</td>
-</tr>
-</table>
-
-<sub>AI CORE → LLMs · Agents · Automation &nbsp;|&nbsp; DATA →</sub>
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&theme=dark&perline=3" width="90" alt="Data layer" />
-
-</div>
-
----
-
-## 🚀 Featured Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 OnePersonAI
-**AI + automation ecosystem**
-
-Intelligent products, digital workflows, and autonomous software systems.
-
-<a href="https://onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20PRODUCT-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Open OnePersonAI" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 KBFixer
-**Document processing engine**
-
-A focused web product for fast PDF and presentation workflows.
-
-<a href="https://kbfixer.onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20PRODUCT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Open KBFixer" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 OneMusic
-**Flutter music platform**
-
-A clean Android listening experience built around speed and simplicity.
-
-<a href="https://github.com/AkshatRaj00"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View OneMusic source" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🚑 Jeev Sahay
-**Emergency assistance platform**
-
-Digital workflows designed for support, accessibility, and intelligent assistance.
-
-<a href="https://jeevsahay.in"><img src="https://img.shields.io/badge/OPEN%20PRODUCT-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Jeev Sahay" /></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📡 Live Build Signal
-
-<div align="center">
-
-<a href="https://github.com/AkshatRaj00?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-EXPLORE-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://github.com/AkshatRaj00?tab=activity"><img src="https://img.shields.io/badge/ACTIVITY-OPEN-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Open activity" /></a>
-
-| Stage | Status |
-|---|---|
-| ARCHITECT — systems that scale | ✅ |
-| ENGINEER — reliable product cores | ✅ |
-| AUTOMATE — repeatable workflows | ✅ |
-| DEPLOY — cloud-ready releases | ✅ |
-| ITERATE — always improving | 🔄 |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=AkshatRaj00&theme=react&hide_border=true" alt="GitHub streak stats" />
-
-</div>
-
----
-
-## 📡 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-AkshatRaj00-181717?style=for-the-badge&logo=github)](https://github.com/AkshatRaj00)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-36BCF7?style=for-the-badge&logo=vercel)](https://akshat-raj-portfolio-lfy7.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshatgyan2004@gmail.com)
-[![X](https://img.shields.io/badge/X-AkshatRaj00_-000000?style=for-the-badge&logo=x)](https://x.com/AkshatRaj00_)
-[![DEV.to](https://img.shields.io/badge/DEV.to-akshatraj00-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/akshatraj00)
-[![OWASP](https://img.shields.io/badge/OWASP_Nest-AkshatRaj00-F80000?style=for-the-badge&logo=owasp)](https://nest.owasp.org/members/AkshatRaj00)
-[![Kaggle](https://img.shields.io/badge/Kaggle-akshatraj12-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/akshatraj12)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=36BCF7&background=0D1117&center=true&vCenter=true&width=700&lines=BUILD+%E2%80%A2+AUTOMATE+%E2%80%A2+SCALE;Always+learning;Always+building;Always+shipping" alt="Animated closing message" />
-
-<sub>Engineering intelligent systems, one idea at a time.</sub>
-
-</div>
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#0F1B33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36BCF7"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <style>
+      .row { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+      .title { font-size: 42px; font-weight: 700; fill: #FFFFFF; letter-spacing: 2px; }
+      .sub   { font-size: 18px; fill: #93C5FD; }
+      .line  { font-size: 16px; fill: #CBD5E1; }
+      .tag   { font-size: 14px; fill: #36BCF7; }
+    </style>
+  </defs>
+
+  <rect width="900" height="420" rx="14" fill="url(#bg)"/>
+
+  <!-- each row starts invisible + shifted up, then drops into place -->
+
+  <g class="row" transform="translate(40,70)" opacity="0">
+    <text class="title">AKSHAT RAJ</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,40; 40,70" dur="0.6s" begin="0.1s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze"/>
+  </g>
+
+  <g class="row" transform="translate(40,105)" opacity="0">
+    <text class="sub">Founder @ OnePersonAI — AI Systems · Automation · Cloud</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,75; 40,105" dur="0.6s" begin="0.5s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.5s" fill="freeze"/>
+  </g>
+
+  <!-- drawing divider line -->
+  <line x1="40" y1="130" x2="860" y2="130" stroke="url(#accent)" stroke-width="2"
+        stroke-dasharray="820" stroke-dashoffset="820">
+    <animate attributeName="stroke-dashoffset" values="820;0" dur="0.9s" begin="0.9s" fill="freeze"/>
+  </line>
+
+  <g class="row" transform="translate(40,165)" opacity="0">
+    <text class="line">runtime      :: Rust · Go · Python</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,135; 40,165" dur="0.5s" begin="1.3s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.3s" fill="freeze"/>
+  </g>
+
+  <g class="row" transform="translate(40,195)" opacity="0">
+    <text class="line">interface   :: React · Next.js · Flutter</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,165; 40,195" dur="0.5s" begin="1.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.6s" fill="freeze"/>
+  </g>
+
+  <g class="row" transform="translate(40,225)" opacity="0">
+    <text class="line">intelligence:: LLMs · Agents · Automation</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,195; 40,225" dur="0.5s" begin="1.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.9s" fill="freeze"/>
+  </g>
+
+  <g class="row" transform="translate(40,255)" opacity="0">
+    <text class="line">infra       :: AWS · Docker · Linux</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,225; 40,255" dur="0.5s" begin="2.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.2s" fill="freeze"/>
+  </g>
+
+  <!-- second divider -->
+  <line x1="40" y1="280" x2="860" y2="280" stroke="#1E293B" stroke-width="1"
+        stroke-dasharray="820" stroke-dashoffset="820">
+    <animate attributeName="stroke-dashoffset" values="820;0" dur="0.8s" begin="2.5s" fill="freeze"/>
+  </line>
+
+  <g class="row" transform="translate(40,320)" opacity="0">
+    <text class="tag">$ whoami</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,290; 40,320" dur="0.4s" begin="2.9s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="2.9s" fill="freeze"/>
+  </g>
+
+  <g class="row" transform="translate(40,348)" opacity="0">
+    <text class="line" fill="#22D3EE">akshat — one person, full stack, end to end</text>
+    <animateTransform attributeName="transform" type="translate"
+      values="40,318; 40,348" dur="0.4s" begin="3.2s" fill="freeze"/>
+    <animate attributeName="opacity" values="0;1" dur="0.4s" begin="3.2s" fill="freeze"/>
+  </g>
+
+  <!-- blinking status dot -->
+  <circle cx="828" cy="345" r="6" fill="#22C55E" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.6s" fill="freeze"/>
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.4s" begin="3.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="782" y="349" class="tag" opacity="0" font-size="13">ONLINE
+    <animate attributeName="opacity" values="0;1" dur="0.3s" begin="3.6s" fill="freeze"/>
+  </text>
+</svg>
