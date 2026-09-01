@@ -49,9 +49,13 @@
 
 <div align="center">
 
-### ⚡ Build philosophy
+### ⚡ Build Philosophy
 
-I design and ship complete digital systems across AI, automation, full-stack engineering, mobile apps, cybersecurity research, and cloud infrastructure.
+```
+build();
+ship();
+repeat();
+```
 
 > Build less noise. Ship more signal.
 
@@ -65,16 +69,17 @@ I design and ship complete digital systems across AI, automation, full-stack eng
 <tr>
 <td width="55%" valign="top">
 
-**Currently in the loop:**
+```bash
+$ status --loop
+🤖 ai-workflows      :: agents · tools · self-recover
+⚙️ backend           :: rust · go · high-throughput
+🎨 3d-interfaces     :: threejs · interactive
+🔐 security-tools    :: scanners · real-time
+☁️ cloud-native      :: docker · ci/cd
+📱 mobile            :: flutter · production
+```
 
-- 🤖 **Autonomous AI workflows** — agents that plan, call tools, and recover from failure on their own
-- ⚙️ **High-performance backend systems** — Rust and Go services built for throughput, not just demos
-- 🎨 **3D interactive interfaces** — Three.js experiences that feel alive, not static pages
-- 🔐 **Security engineering tools** — scanners and bots that catch real threats in real time
-- ☁️ **Cloud-native infrastructure** — Dockerized, CI/CD-driven, built to survive production traffic
-- 📱 **Production mobile apps** — Flutter builds shipped to real users, not just prototypes
-
-One person, full stack, end to end — from the first line of code to the deployed release.
+`one person :: full stack :: idea → deploy`
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -148,9 +153,7 @@ One person, full stack, end to end — from the first line of code to the deploy
 <td width="50%" valign="top">
 
 ### 🧠 OnePersonAI
-**AI + automation ecosystem**
-
-Intelligent products, digital workflows, and autonomous software systems.
+`ai · automation · ecosystem`
 
 <a href="https://onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20PRODUCT-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="Open OnePersonAI" /></a>
 
@@ -158,9 +161,7 @@ Intelligent products, digital workflows, and autonomous software systems.
 <td width="50%" valign="top">
 
 ### 📄 KBFixer
-**Document processing engine**
-
-A focused web product for fast PDF and presentation workflows.
+`pdf · pptx · document-engine`
 
 <a href="https://kbfixer.onepersonai.in"><img src="https://img.shields.io/badge/OPEN%20PRODUCT-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Open KBFixer" /></a>
 
@@ -170,9 +171,7 @@ A focused web product for fast PDF and presentation workflows.
 <td width="50%" valign="top">
 
 ### 🎵 OneMusic
-**Flutter music platform**
-
-A clean Android listening experience built around speed and simplicity.
+`flutter · android · music`
 
 <a href="https://github.com/AkshatRaj00"><img src="https://img.shields.io/badge/VIEW%20SOURCE-181717?style=for-the-badge&logo=github&logoColor=white" alt="View OneMusic source" /></a>
 
@@ -180,9 +179,7 @@ A clean Android listening experience built around speed and simplicity.
 <td width="50%" valign="top">
 
 ### 🚑 Jeev Sahay
-**Emergency assistance platform**
-
-Digital workflows designed for support, accessibility, and intelligent assistance.
+`emergency · access · assist`
 
 <a href="https://jeevsahay.in"><img src="https://img.shields.io/badge/OPEN%20PRODUCT-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Open Jeev Sahay" /></a>
 
@@ -201,11 +198,11 @@ Digital workflows designed for support, accessibility, and intelligent assistanc
 
 | Stage | Status |
 |---|---|
-| ARCHITECT — systems that scale | ✅ |
-| ENGINEER — reliable product cores | ✅ |
-| AUTOMATE — repeatable workflows | ✅ |
-| DEPLOY — cloud-ready releases | ✅ |
-| ITERATE — always improving | 🔄 |
+| `architect` | ✅ |
+| `engineer` | ✅ |
+| `automate` | ✅ |
+| `deploy` | ✅ |
+| `iterate` | 🔄 |
 
 </div>
 
