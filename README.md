@@ -101,7 +101,78 @@ mindmap
 
 ---
 
+# 🧬 SYSTEM ARCHITECTURE
 
+<div align="center">
+
+```text
+                         ┌───────────────────────┐
+                         │       👤 USER         │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                    ┌─────────────────────────────┐
+                    │      🎨 EXPERIENCE          │
+                    │ React • Next • Flutter      │
+                    │ Three.js • TypeScript       │
+                    └─────────────┬───────────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────────┐
+                    │       ⚡ API / BACKEND       │
+                    │ Python • Rust • Go • Node   │
+                    └─────────────┬───────────────┘
+                                  │
+                     ┌────────────┼────────────┐
+                     ▼            ▼            ▼
+               ┌──────────┐ ┌──────────┐ ┌──────────┐
+               │ 🧠 AI    │ │ ⚙️ AGENTS│ │ 🔐 SECURE│
+               │ LLM/RAG  │ │ AUTOMATE │ │ SYSTEMS  │
+               └────┬─────┘ └────┬─────┘ └────┬─────┘
+                    │            │             │
+                    └────────────┼─────────────┘
+                                 ▼
+                    ┌─────────────────────────────┐
+                    │       ☁️ INFRASTRUCTURE      │
+                    │ AWS • Docker • Linux • CI/CD│
+                    └─────────────┬───────────────┘
+                                  │
+                                  ▼
+                    ┌─────────────────────────────┐
+                    │        🚀 PRODUCTION        │
+                    │       IDEA → DEPLOY         │
+                    └─────────────────────────────┘
+```
+
+</div>
+
+---
+
+# 🔄 HOW I BUILD
+
+```mermaid
+flowchart LR
+
+    IDEA["💡 IDEA"]
+    DESIGN["🧠 DESIGN"]
+    CODE["⚙️ BUILD"]
+    AI["🤖 AI"]
+    TEST["🧪 TEST"]
+    DEPLOY["☁️ DEPLOY"]
+    MONITOR["📡 MONITOR"]
+    ITERATE["🔄 ITERATE"]
+
+    IDEA --> DESIGN
+    DESIGN --> CODE
+    CODE --> AI
+    AI --> TEST
+    TEST --> DEPLOY
+    DEPLOY --> MONITOR
+    MONITOR --> ITERATE
+    ITERATE --> DESIGN
+```
+
+<div align="center">
 
 ### `IDEA → DESIGN → BUILD → TEST → DEPLOY → MONITOR → ITERATE`
 
@@ -127,6 +198,32 @@ mindmap
 
 ---
 
+# 🖥️ TERMINAL
+
+<div align="center">
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  akshat@onepersonai:~$ systemctl status onepersonai          │
+│                                                              │
+│  ● onepersonai.service                                       │
+│    ├── AI CORE              [ ONLINE ]                       │
+│    ├── AUTOMATION           [ ONLINE ]                       │
+│    ├── API SYSTEMS          [ ONLINE ]                       │
+│    ├── CLOUD                [ ONLINE ]                       │
+│    ├── SECURITY             [ ACTIVE ]                       │
+│    └── PRODUCT ENGINE       [ BUILDING ]                     │
+│                                                              │
+│  uptime      :: BUILDING                                     │
+│  mode        :: AUTONOMOUS                                   │
+│  operator    :: AKSHAT RAJ                                   │
+│  company     :: ONEPERSONAI                                  │
+│                                                              │
+│  akshat@onepersonai:~$                                      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -210,6 +307,34 @@ flowchart TD
 
 ---
 
+# 🏗️ ONEPERSONAI
+
+<div align="center">
+
+<a href="https://onepersonai.in">
+
+<img src="https://img.shields.io/badge/ONEPERSONAI-AUTONOMOUS_AI_SYSTEMS-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</a>
+
+<br/><br/>
+
+```text
+                ONEPERSONAI
+                     │
+       ┌─────────────┼─────────────┐
+       ▼             ▼             ▼
+      🧠 AI        ⚙️ AUTO       ☁️ CLOUD
+       │             │             │
+       ▼             ▼             ▼
+    Agents        Workflows      Deploy
+       │             │             │
+       └─────────────┼─────────────┘
+                     ▼
+              🚀 DIGITAL PRODUCTS
+```
+
+</div>
 
 ---
 
@@ -371,7 +496,18 @@ graph TD
 
 <br/><br/>
 
-```
+```text
+┌──────────────┬──────────────┐
+│  ARCHITECT   │      ✅      │
+├──────────────┼──────────────┤
+│  ENGINEER    │      ✅      │
+├──────────────┼──────────────┤
+│  AUTOMATE    │      ✅      │
+├──────────────┼──────────────┤
+│  DEPLOY      │      ✅      │
+├──────────────┼──────────────┤
+│  ITERATE     │      🔄      │
+└──────────────┴──────────────┘
 ```
 
 </div>
@@ -406,6 +542,43 @@ graph TD
 
 ---
 
+# 🌌 BUILD PHILOSOPHY
+
+<div align="center">
+
+```text
+        BUILD
+          │
+          ▼
+        SHIP
+          │
+          ▼
+      AUTOMATE
+          │
+          ▼
+       OBSERVE
+          │
+          ▼
+       ITERATE
+          │
+          └───────────────↺
+```
+
+<br/>
+
+### `build();`
+
+### `ship();`
+
+### `automate();`
+
+### `repeat();`
+
+<br/>
+
+> **Build less noise. Ship more signal.**
+
+</div>
 
 ---
 
