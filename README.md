@@ -1,231 +1,198 @@
+﻿<div align="center">
 
-<!-- ======================================================
-     AKSHAT RAJ — PREMIUM DEVELOPER PROFILE
-     Minimal. Intentional. Engineered.
-     ====================================================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0C&height=8" alt=""/>
-
-<br/><br/>
-
-<a href="https://github.com/AkshatRaj00">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&duration=3500&pause=1600&color=888888&center=true&vCenter=true&width=400&height=25&lines=INDEPENDENTLY+BUILDING;ENGINEERING+WITH+INTENTION;AI+%C2%B7+SOFTWARE+%C2%B7+OPEN+SOURCE" alt="Profile tagline"/>
-</a>
-
-# Akshat Raj
-
-### Software Engineer in the making.
-
-I build software, explore applied AI, and turn ideas into working products.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:080B16,50:2563EB,100:9333EA" alt=""/>
 
 <br/>
 
-<a href="https://onepersonai.in">OnePersonAI ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://akshat-raj-portfolio-lfy7.vercel.app/">Portfolio ↗</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/AkshatRaj00?tab=repositories">Projects ↗</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=AI+ENGINEERING+%2F%2F+SYSTEMS;BUILDING+INTELLIGENT+SOFTWARE;IDEAS+INTO+ENGINEERED+REALITY" alt="Animated introduction"/>
 
-<br/><br/>
+# AKSHAT RAJ
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=171719&height=1" width="76%" alt=""/>
+**Software Engineering · Applied AI · Open Source**
+
+Building practical software at the intersection of intelligent systems and engineering.
+
+[Portfolio ↗](https://akshat-raj-portfolio-lfy7.vercel.app/) · [OnePersonAI ↗](https://onepersonai.in) · [Repositories ↗](https://github.com/AkshatRaj00?tab=repositories)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=30363D" alt=""/>
 
 </div>
 
-<br/>
+## / 01 — The Mission
 
-## About
+I'm a Computer Science & Engineering student exploring applied AI, backend systems, automation, and developer tools.
 
-I'm a Computer Science & Engineering student interested in the intersection of software engineering, AI, and useful digital products.
+I believe in understanding the problem before writing the solution, testing what I build, and keeping software understandable for the next engineer.
 
-I prefer understanding the system over memorising the syntax. My process is simple: explore the problem, build a working solution, test the details, and improve what matters.
+`RESEARCH` → `DESIGN` → `BUILD` → `VALIDATE` → `IMPROVE`
 
-- **Currently exploring** — AI engineering, backend systems, and open source.
-- **Interested in** — Applied machine learning, developer tools, and automation.
-- **Building toward** — Software that is useful, reliable, and thoughtfully engineered.
+## / 02 — Neural Systems
 
-<br/>
+<div align="center">
 
-## Selected work
+```mermaid
+flowchart TB
+    U(["USER / INPUT"]) --> P["PROCESSING LAYER"]
+    P --> N1(("NODE 01"))
+    P --> N2(("NODE 02"))
+    P --> N3(("NODE 03"))
+    N1 <--> N2
+    N2 <--> N3
+    N3 <--> N1
+    N1 --> AI["INTELLIGENCE CORE"]
+    N2 --> AI
+    N3 --> AI
+    AI <--> DB[("DATA LAYER")]
+    AI --> O["OUTPUT ENGINE"]
+    O --> R(["RESULT"])
 
-A few projects and products from my engineering journey.
+    style U fill:#0B1020,stroke:#60A5FA,color:#FFFFFF
+    style P fill:#111827,stroke:#818CF8,color:#FFFFFF
+    style N1 fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    style N2 fill:#312E81,stroke:#A78BFA,color:#FFFFFF
+    style N3 fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    style AI fill:#3B0764,stroke:#C084FC,color:#FFFFFF
+    style DB fill:#052E2B,stroke:#34D399,color:#FFFFFF
+    style O fill:#111827,stroke:#F59E0B,color:#FFFFFF
+    style R fill:#0B1020,stroke:#60A5FA,color:#FFFFFF
+```
+
+</div>
+
+*Conceptual architecture illustrating an AI-enabled application, not a claim that every project uses this exact system.*
+
+## / 03 — Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / NeuroBreak AI
+### NeuroBreak AI
 
-AI-focused project exploring practical applications of intelligent software.
+An AI-focused project exploring practical intelligent software.
 
-<br/>
-
-<a href="https://github.com/AkshatRaj00/NeuroBreak-AI">Explore repository ↗</a>
+[View repository ↗](https://github.com/AkshatRaj00/NeuroBreak-AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / Heart Disease Prediction
+### Heart Disease Prediction
 
-A machine-learning project focused on exploring predictive modelling with health-related data.
+Machine-learning experimentation with predictive modelling.
 
-<br/>
-
-<a href="https://github.com/AkshatRaj00/Heart-diseaseprediction">Explore repository ↗</a>
+[View repository ↗](https://github.com/AkshatRaj00/Heart-diseaseprediction)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Spam Detector
+### Spam Detector
 
 A classification project exploring automated spam detection.
 
-<br/>
-
-<a href="https://github.com/AkshatRaj00/spam-detector">Explore repository ↗</a>
+[View repository ↗](https://github.com/AkshatRaj00/spam-detector)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / GitPatch
+### GitPatch & Developer Tools
 
-An exploration of AI-assisted code workflows and developer productivity.
+Exploring AI-assisted workflows and practical developer utilities.
 
-<br/>
-
-<a href="https://github.com/AkshatRaj00?tab=repositories">Explore repositories ↗</a>
+[Explore repositories ↗](https://github.com/AkshatRaj00?tab=repositories)
 
 </td>
 </tr>
 </table>
 
-<br/>
+### Product experiments
 
-### Products & experiments
-
-| Project | What it explores |
+| Project | Focus |
 |:--|:--|
-| [OnePersonAI](https://onepersonai.in) | Personal AI and intelligent software experiences |
+| [OnePersonAI](https://onepersonai.in) | Personal AI and intelligent software |
 | [KBFixer](https://kbfixer.onepersonai.in) | Browser-based file utilities |
 | [OneMusic](https://onemusic-website.vercel.app/) | Music-focused digital experience |
 | [Cutout Studio](https://cutout.onepersonai.in) | Image background-removal utility |
-| OmniPrice | Multi-store product discovery and price-comparison concept |
+| OmniPrice | Multi-store product discovery concept |
 
-<sub>Project links, features, and implementation status may change. Explore each project for its current state.</sub>
+## / 04 — Engineering Stack
 
-<br/>
+<div align="center">
 
-## Engineering approach
+**LANGUAGES**
 
-Good software is not just a working demo. It's a system someone else can understand, test, and improve.
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&theme=dark" alt="Languages"/>
+
+**WEB / BACKEND**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,mysql&theme=dark" alt="Web and backend"/>
+
+**AI / DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,vercel&theme=dark" alt="AI and developer tools"/>
+
+</div>
+
+<sub>These are technologies I use or explore; experience varies across the stack.</sub>
+
+## / 05 — Development Protocol
 
 <div align="center">
 
 ```mermaid
 flowchart LR
     A["Understand"] --> B["Design"]
-    B --> C["Build"]
-    C --> D["Validate"]
-    D --> E["Refine"]
-    E --> F["Ship"]
+    B --> C["Implement"]
+    C --> D["Test"]
+    D --> E{"Pass?"}
+    E -- "No" --> F["Debug"]
+    F --> C
+    E -- "Yes" --> G["Review & Ship"]
 
-    style A fill:#111111,stroke:#555555,color:#FFFFFF
-    style B fill:#111111,stroke:#555555,color:#FFFFFF
-    style C fill:#111111,stroke:#777777,color:#FFFFFF
-    style D fill:#111111,stroke:#777777,color:#FFFFFF
-    style E fill:#111111,stroke:#999999,color:#FFFFFF
-    style F fill:#171717,stroke:#FFFFFF,color:#FFFFFF
+    style A fill:#111827,stroke:#64748B,color:#FFFFFF
+    style B fill:#111827,stroke:#64748B,color:#FFFFFF
+    style C fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    style D fill:#172554,stroke:#60A5FA,color:#FFFFFF
+    style E fill:#3B0764,stroke:#C084FC,color:#FFFFFF
+    style F fill:#451A03,stroke:#F59E0B,color:#FFFFFF
+    style G fill:#052E2B,stroke:#34D399,color:#FFFFFF
 ```
 
 </div>
 
-I value clear interfaces, understandable code, meaningful tests, secure configuration, and focused changes.
+- Clear interfaces and maintainable implementation.
+- Input validation, error handling, and secure configuration.
+- Focused changes with relevant regression tests.
+- Documentation that makes projects easier to run and understand.
 
-<br/>
-
-## Tools I work with
+## / 06 — GitHub Telemetry
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript&theme=dark" alt="Programming languages"/>
-
-<br/><br/>
-
-**Web & backend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,mysql&theme=dark" alt="Web and backend technologies"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true&bg_color=080B16&title_color=FFFFFF&text_color=9CA3AF&icon_color=60A5FA" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&hide_border=true&bg_color=080B16&title_color=FFFFFF&text_color=9CA3AF" alt="Top languages"/>
 
 <br/><br/>
 
-**AI & development**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,github,vscode,vercel&theme=dark" alt="AI and development tools"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&bg_color=080B16&color=9CA3AF&line=818CF8&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity"/>
 
 </div>
 
-<sub>Technologies represent areas I use or explore; experience and proficiency vary across the stack.</sub>
-
-<br/>
-
-## GitHub activity
+## / 07 — Connect
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true&bg_color=0B0B0C&title_color=FFFFFF&text_color=999999&icon_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&hide_border=true&bg_color=0B0B0C&title_color=FFFFFF&text_color=999999" alt="Most used languages"/>
+[GitHub](https://github.com/AkshatRaj00) · [Portfolio](https://akshat-raj-portfolio-lfy7.vercel.app/) · [OnePersonAI](https://onepersonai.in) · [X](https://x.com/AkshatRaj00_) · [DEV](https://dev.to/akshatraj00) · [Kaggle](https://www.kaggle.com/akshatraj12)
 
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&bg_color=0B0B0C&color=999999&line=888888&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
-
-</div>
+[akshatgyan2004@gmail.com](mailto:akshatgyan2004@gmail.com)
 
 <br/>
 
-## Beyond the code
+*Thoughtful engineering. Continuous iteration.*
 
-I believe in learning by building, staying curious, and improving through honest feedback.
-
-My long-term goal is to become an engineer who can move comfortably from understanding a problem to designing, implementing, and maintaining a real solution.
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=171719&height=1" width="76%" alt=""/>
-
-<br/><br/>
-
-### Let's build something meaningful.
-
-Open to interesting engineering conversations and meaningful open-source collaboration.
-
-<br/>
-
-<a href="https://github.com/AkshatRaj00">GitHub</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://x.com/AkshatRaj00_">X</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://dev.to/akshatraj00">DEV Community</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.kaggle.com/akshatraj12">Kaggle</a>
-
-<br/><br/>
-
-<a href="mailto:akshatgyan2004@gmail.com">akshatgyan2004@gmail.com</a>
-
-<br/><br/>
-
-<sub>Designed with intention. Built through iteration.</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0C&height=8" alt=""/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:9333EA,50:2563EB,100:080B16" alt=""/>
 
 </div>
