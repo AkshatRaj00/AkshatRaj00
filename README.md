@@ -9,7 +9,7 @@
 <h3>Computer Science & Engineering Student | AI & ML Enthusiast 🇮🇳</h3>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Learning+AI+%26+Machine+Learning;Building+Real+World+Projects;Exploring+Cybersecurity;Learning+One+Commit+At+A+Time" alt="Animated greeting and introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Real+World+Projects;Learning+One+Commit+At+A+Time" alt="Animated greeting"/>
 </p>
 
 <p>
@@ -25,9 +25,9 @@
 </p>
 
 <p>
-  <a href="https://github.com/AkshatRaj00?tab=repositories">Explore Projects</a>
+  <a href="https://github.com/AkshatRaj00?tab=repositories">My Repositories</a>
   &nbsp; • &nbsp;
-  <a href="mailto:akshatgyan2004@gmail.com">Get in Touch</a>
+  <a href="mailto:akshatgyan2004@gmail.com">Contact Me</a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=AkshatRaj00&label=PROFILE+VIEWS&color=1f6feb&style=flat-square" alt="Profile views"/>
@@ -40,18 +40,16 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" alt="Developer coding animation"/>
 
-Hey there! I'm Akshat, a Computer Science and Engineering student who enjoys building software, exploring AI, and understanding how technology works.
+Hey! I'm Akshat, a Computer Science and Engineering student passionate about programming, AI, and building useful applications.
 
 - 🎓 Computer Science & Engineering student.
 - 🤖 Exploring Artificial Intelligence and Machine Learning.
 - 🧠 Interested in NLP, Computer Vision, and data-driven applications.
-- 💻 Building web applications and practical developer tools.
-- 🔐 Learning cybersecurity and ethical hacking fundamentals.
-- 🧪 Practising debugging, testing, and problem-solving.
-- 🌱 Exploring open source and improving through real projects.
-- 🚀 Experimenting with product ideas through OnePersonAI.
+- 💻 Building web applications and developer tools.
+- 🌱 Improving through practical projects and open-source exploration.
+- 🚀 Exploring product ideas through OnePersonAI.
 
-**My mindset:** Learn the fundamentals. Build something useful. Test it. Improve it.
+**My mindset:** Learn the fundamentals, build something useful, test it, and improve it.
 
 <br clear="right"/>
 
@@ -61,22 +59,22 @@ Hey there! I'm Akshat, a Computer Science and Engineering student who enjoys bui
 
 <div align="center">
 
-**Programming Languages**
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript&theme=dark" alt="Programming languages"/>
 
-**AI, Machine Learning & Data**
+### AI, Machine Learning & Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and computer vision"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
 
-**Web Development**
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind,fastapi&theme=dark" alt="Web development"/>
 
-**Databases & Tools**
+### Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,git,github,linux,docker,vscode,vercel&theme=dark" alt="Databases and tools"/>
 
@@ -86,88 +84,16 @@ Hey there! I'm Akshat, a Computer Science and Engineering student who enjoys bui
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 OneMusic
-
-Music-focused application and website development.
-
-[Main Repository ↗](https://github.com/AkshatRaj00/OneMusic)
-
-[Website Repository ↗](https://github.com/AkshatRaj00/onemusic-website)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Heart Disease Prediction
-
-Machine learning project exploring health-related prediction using data.
-
-[View Repository ↗](https://github.com/AkshatRaj00/Heart-diseaseprediction)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🪄 KBFixer
-
-A browser-based utility for file-processing workflows.
-
-[Source Code ↗](https://github.com/AkshatRaj00/kbfixer)
-
-[Live Website ↗](https://kbfixer.onepersonai.in)
-
-</td>
-<td width="50%" valign="top">
-
-### ✂️ Cutout Studio
-
-An image utility focused on background-removal workflows.
-
-[Source Code ↗](https://github.com/AkshatRaj00/cutout-studio)
-
-[Live Website ↗](https://cutout.onepersonai.in)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-### 🛒 OmniPrice
-
-Product discovery and multi-store price-comparison experiments.
-
-[Explore Repository ↗](https://github.com/AkshatRaj00/omniprice)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/AkshatRaj00?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-All%20Repositories-238636?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/AkshatRaj00">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub account statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/AkshatRaj00">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Languages in public repositories"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top repository languages"/>
 </a>
 
 <br/>
@@ -179,57 +105,12 @@ Product discovery and multi-store price-comparison experiments.
 <br/>
 
 <a href="https://github.com/AkshatRaj00">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution graph"/>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph"/>
 </a>
 
 </div>
 
-<sub>Stats are generated from available GitHub data by external services. Cards can be cached, delayed, or temporarily unavailable. Language statistics represent repository code, not personal proficiency.</sub>
-
----
-
-## 🔐 Cybersecurity & Ethical Hacking
-
-<div align="center">
-
-<img width="75%" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" alt="Cybersecurity-themed animated GIF"/>
-
-### Understand the system. Find weaknesses. Build better defenses.
-
-</div>
-
-I'm learning cybersecurity alongside software development, with a focus on understanding systems and practising safely in authorized environments.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Foundations**
-
-- Computer networks
-- HTTP, DNS, and web security
-- Linux and operating systems
-- Authentication and authorization
-
-</td>
-<td width="50%" valign="top">
-
-**🛡️ Security Practice**
-
-- Secure coding fundamentals
-- Vulnerability analysis in labs
-- Defensive security concepts
-- Responsible disclosure
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Ethical%20%26%20Authorized%20Testing-238636?style=flat-square&logo=owasp&logoColor=white" alt="Ethical security focus"/>
-
-</div>
+<sub>Stats use available GitHub data through external services. Cards may be cached or temporarily unavailable. Language percentages represent repository code, not personal proficiency.</sub>
 
 ---
 
@@ -248,6 +129,9 @@ I'm learning cybersecurity alongside software development, with a focus on under
 </a>
 <a href="mailto:akshatgyan2004@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://dev.to/akshatraj00">
+  <img src="https://img.shields.io/badge/DEV.to-Read%20Posts-0A0A0A?style=for-the-badge&logo=dev.to" alt="DEV Community"/>
 </a>
 
 <br/><br/>
