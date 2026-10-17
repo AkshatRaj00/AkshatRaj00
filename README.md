@@ -1,59 +1,83 @@
-﻿<div align="center">
+﻿<h1 align="center">Hi 👋, I'm <a href="https://github.com/AkshatRaj00">Akshat Raj</a></h1>
+<h3 align="center">AI Engineer in the making | Software Developer from India 🇮🇳</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:172554,100:6D28D9&height=170&section=header&text=AKSHAT%20RAJ&fontSize=48&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" alt="Akshat Raj"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkshatRaj00&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=500&lines=AI+ENGINEERING;BUILDING+INTELLIGENT+SYSTEMS;IDEAS+INTO+REALITY" alt="Animated introduction"/>
+<p align="center">
+  <a href="https://github.com/AkshatRaj00?tab=followers">
+    <img src="https://img.shields.io/github/followers/AkshatRaj00?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers"/>
+  </a>
+</p>
 
-**AI · Software · Automation**
+<img align="right" alt="Coding animation" width="340" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-[Portfolio ↗](https://akshat-raj-portfolio-lfy7.vercel.app/) · [Projects ↗](https://github.com/AkshatRaj00?tab=repositories) · [OnePersonAI ↗](https://onepersonai.in)
+- 🔭 Building projects at **OnePersonAI**
+- 🌱 Exploring **AI/ML, Python, backend development**
+- 🤖 Interested in intelligent applications and automation
+- 💻 Learning by building practical software
+- 🤝 Interested in open-source collaboration
+- 📂 Explore my work on [GitHub](https://github.com/AkshatRaj00?tab=repositories)
+- 🌐 Portfolio: [Visit website](https://akshat-raj-portfolio-lfy7.vercel.app/)
+- 📫 Email: **[akshatgyan2004@gmail.com](mailto:akshatgyan2004@gmail.com)**
 
-</div>
+<br clear="right"/>
 
 ---
 
-<div align="center">
+<h3 align="center">⚡ Tech Stack</h3>
 
-### NEURAL CORE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,react,nextjs,nodejs,express,mongodb,mysql,git,github,vscode&perline=7" alt="Technology stack"/>
+</p>
 
-```mermaid
-flowchart LR
-    A(("INPUT")) --> B["NEURAL ENGINE"]
-    B --> C["AI CORE"]
-    C <--> D[("DATA")]
-    C --> E(("OUTPUT"))
+<h3 align="center">🚀 Featured Projects</h3>
 
-    style A fill:#0B1020,stroke:#60A5FA,color:#FFFFFF
-    style B fill:#111827,stroke:#818CF8,color:#FFFFFF
-    style C fill:#3B0764,stroke:#C084FC,color:#FFFFFF
-    style D fill:#052E2B,stroke:#34D399,color:#FFFFFF
-    style E fill:#0B1020,stroke:#60A5FA,color:#FFFFFF
-```
+<p align="center">
+  <a href="https://github.com/AkshatRaj00/NeuroBreak-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshatRaj00&repo=NeuroBreak-AI&theme=tokyonight&hide_border=true" alt="NeuroBreak AI"/>
+  </a>
+  <a href="https://github.com/AkshatRaj00/Heart-diseaseprediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshatRaj00&repo=Heart-diseaseprediction&theme=tokyonight&hide_border=true" alt="Heart Disease Prediction"/>
+  </a>
+  <a href="https://github.com/AkshatRaj00/spam-detector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshatRaj00&repo=spam-detector&theme=tokyonight&hide_border=true" alt="Spam Detector"/>
+  </a>
+</p>
 
-</div>
+<h3 align="center">📊 GitHub Activity</h3>
 
-### Featured builds
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
 
-[**NeuroBreak AI**](https://github.com/AkshatRaj00/NeuroBreak-AI) · [Heart Disease Prediction](https://github.com/AkshatRaj00/Heart-diseaseprediction) · [Spam Detector](https://github.com/AkshatRaj00/spam-detector)
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+</p>
 
-### Watch / Explore
+<h3 align="center">🤝 Connect with Me</h3>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/AkshatRaj00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/AkshatRaj00_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://dev.to/akshatraj00">
+    <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
+  </a>
+  <a href="https://www.kaggle.com/akshatraj12">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="mailto:akshatgyan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-[![Explore my projects](https://capsule-render.vercel.app/api?type=rect&color=0B1020&height=90&section=header&text=EXPLORE%20THE%20LAB%20%E2%86%97&fontSize=23&fontColor=60A5FA)](https://github.com/AkshatRaj00?tab=repositories)
-
-[Open project demos ↗](https://github.com/AkshatRaj00?tab=repositories)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&hide_border=true&bg_color=050816&title_color=60A5FA&text_color=C9D1D9&icon_color=A78BFA" height="145" alt="GitHub stats"/>
-
-<br/>
-
-[GitHub](https://github.com/AkshatRaj00) · [X](https://x.com/AkshatRaj00_) · [Email](mailto:akshatgyan2004@gmail.com)
-
-<sub>Build. Test. Improve.</sub>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6D28D9&height=100&section=footer" width="100%" alt="Footer"/>
+  <b>Build. Learn. Ship. Repeat. 🚀</b>
+</p>
