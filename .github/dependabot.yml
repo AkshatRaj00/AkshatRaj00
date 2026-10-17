@@ -1,6 +1,11 @@
-version: 2
+﻿version: 2
 updates:
+  # Daily check for GitHub Actions workflows updates
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
+    open-pull-requests-limit: 10
+    labels:
+      - "dependencies"
+      - "automated"
