@@ -1,639 +1,291 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&text=AKSHAT%20RAJ&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20SYSTEMS%20%20%E2%80%A2%20%20AUTOMATION%20%20%E2%80%A2%20%20CLOUD&descAlignY=66&descSize=18&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4" alt="Akshat Raj animated header"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Founder+%40+OnePersonAI;Building+Autonomous+Digital+Systems;AI+%7C+Automation+%7C+Cloud;Turning+Ideas+Into+Production;Build+%E2%80%A2+Ship+%E2%80%A2+Iterate" alt="Animated introduction"/>
-
-<br/><br/>
-
-<a href="https://onepersonai.in">
-<img src="https://img.shields.io/badge/ONEPERSONAI-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://akshat-raj-portfolio-lfy7.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:akshatgyan2004@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-00C853?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AkshatRaj00&style=for-the-badge&color=0ea5e9&label=SYSTEM+VISITORS" />
-
-</div>
-
----
-
-<div align="center">
-
-# ⚡ SYSTEM ONLINE
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=900&color=00FF66&center=true&vCenter=true&width=650&lines=%5B+ONLINE+%5D+AI+CORE;%5B+ONLINE+%5D+AUTOMATION;%5B+ONLINE+%5D+CLOUD;%5B+ONLINE+%5D+PRODUCT+SYSTEMS;%5B+BUILDING+%5D+ONEPERSONAI" alt="System status"/>
-
-</div>
-
----
-
-# 🧠 SYSTEM MIND MAP
-
-```mermaid
-mindmap
-  root((AKSHAT RAJ))
-    OnePersonAI
-      AI Products
-      Automation
-      Digital Systems
-      SaaS
-      Developer Tools
-
-    AI Engineering
-      LLMs
-      AI Agents
-      RAG
-      Computer Vision
-      NLP
-      Automation
-
-    Backend
-      Python
-      Rust
-      Go
-      Node.js
-      APIs
-      Distributed Systems
-
-    Frontend
-      React
-      Next.js
-      TypeScript
-      Three.js
-      Flutter
-
-    Cloud
-      AWS
-      Docker
-      Linux
-      CI/CD
-      Firebase
-      Supabase
-
-    Security
-      Linux
-      Kali
-      Security Tools
-      Secure APIs
-      System Hardening
-
-    Products
-      KBFixer
-      OneMusic
-      Jeev Sahay
-      OnePersonAI
-
-    Philosophy
-      Build
-      Ship
-      Automate
-      Iterate
-```
-
----
-
-# 🧬 SYSTEM ARCHITECTURE
-
-<div align="center">
-
-```text
-                         ┌───────────────────────┐
-                         │       👤 USER         │
-                         └───────────┬───────────┘
-                                     │
-                                     ▼
-                    ┌─────────────────────────────┐
-                    │      🎨 EXPERIENCE          │
-                    │ React • Next • Flutter      │
-                    │ Three.js • TypeScript       │
-                    └─────────────┬───────────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────────┐
-                    │       ⚡ API / BACKEND       │
-                    │ Python • Rust • Go • Node   │
-                    └─────────────┬───────────────┘
-                                  │
-                     ┌────────────┼────────────┐
-                     ▼            ▼            ▼
-               ┌──────────┐ ┌──────────┐ ┌──────────┐
-               │ 🧠 AI    │ │ ⚙️ AGENTS│ │ 🔐 SECURE│
-               │ LLM/RAG  │ │ AUTOMATE │ │ SYSTEMS  │
-               └────┬─────┘ └────┬─────┘ └────┬─────┘
-                    │            │             │
-                    └────────────┼─────────────┘
-                                 ▼
-                    ┌─────────────────────────────┐
-                    │       ☁️ INFRASTRUCTURE      │
-                    │ AWS • Docker • Linux • CI/CD│
-                    └─────────────┬───────────────┘
-                                  │
-                                  ▼
-                    ┌─────────────────────────────┐
-                    │        🚀 PRODUCTION        │
-                    │       IDEA → DEPLOY         │
-                    └─────────────────────────────┘
-```
-
-</div>
-
----
-
-# 🔄 HOW I BUILD
-
-```mermaid
-flowchart LR
-
-    IDEA["💡 IDEA"]
-    DESIGN["🧠 DESIGN"]
-    CODE["⚙️ BUILD"]
-    AI["🤖 AI"]
-    TEST["🧪 TEST"]
-    DEPLOY["☁️ DEPLOY"]
-    MONITOR["📡 MONITOR"]
-    ITERATE["🔄 ITERATE"]
-
-    IDEA --> DESIGN
-    DESIGN --> CODE
-    CODE --> AI
-    AI --> TEST
-    TEST --> DEPLOY
-    DEPLOY --> MONITOR
-    MONITOR --> ITERATE
-    ITERATE --> DESIGN
-```
-
-<div align="center">
-
-### `IDEA → DESIGN → BUILD → TEST → DEPLOY → MONITOR → ITERATE`
-
-</div>
-
----
-
-# 🎬 BUILD IN MOTION
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated coding workspace"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=450&color=36BCF7&center=true&vCenter=true&width=700&height=120&lines=%24+build+--ai+--automation;%24+deploy+--cloud;%24+monitor+--production;%24+iterate+--continuous;%24+status;%5BOK%5D+SYSTEM+BUILDING" alt="Animated developer terminal"/>
-
-</div>
-
----
-
-# 🖥️ TERMINAL
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  akshat@onepersonai:~$ systemctl status onepersonai          │
-│                                                              │
-│  ● onepersonai.service                                       │
-│    ├── AI CORE              [ ONLINE ]                       │
-│    ├── AUTOMATION           [ ONLINE ]                       │
-│    ├── API SYSTEMS          [ ONLINE ]                       │
-│    ├── CLOUD                [ ONLINE ]                       │
-│    ├── SECURITY             [ ACTIVE ]                       │
-│    └── PRODUCT ENGINE       [ BUILDING ]                     │
-│                                                              │
-│  uptime      :: BUILDING                                     │
-│  mode        :: AUTONOMOUS                                   │
-│  operator    :: AKSHAT RAJ                                   │
-│  company     :: ONEPERSONAI                                  │
-│                                                              │
-│  akshat@onepersonai:~$                                      │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-# ⚙️ TECHNOLOGY CORE
-
-<div align="center">
-
-### 🧠 LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=rust,go,python,cpp,c,ts,js,dart&theme=dark&perline=8" />
-
-<br/><br/>
-
-### 🎨 INTERFACE
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,flutter,html,css&theme=dark&perline=6" />
-
-<br/><br/>
-
-### ⚡ BACKEND
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark&perline=3" />
-
-<br/><br/>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark&perline=3" />
-
-<br/><br/>
-
-### ☁️ CLOUD / DEVOPS
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions,nginx&theme=dark&perline=5" />
-
-<br/><br/>
-
-### 🗄️ DATA
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark&perline=4" />
-
-<br/><br/>
-
-### 🛠️ DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=4" />
-
-</div>
-
----
-
-# 🧠 INTELLIGENCE STACK
-
-```mermaid
-flowchart TD
-
-    USER["👤 USER"]
-
-    USER --> APP["🌐 APPLICATION"]
-
-    APP --> API["⚡ API LAYER"]
-
-    API --> AGENT["🤖 AI AGENT"]
-
-    AGENT --> LLM["🧠 LLM"]
-
-    LLM --> RAG["📚 RAG / CONTEXT"]
-
-    RAG --> TOOLS["🔧 TOOLS"]
-
-    TOOLS --> DATA["🗄️ DATA"]
-
-    TOOLS --> WEB["🌐 WEB"]
-
-    TOOLS --> AUTOMATION["⚙️ AUTOMATION"]
-
-    AUTOMATION --> RESULT["🚀 ACTION"]
-
-    RESULT --> USER
-```
-
----
-
-# 🏗️ ONEPERSONAI
-
-<div align="center">
-
-<a href="https://onepersonai.in">
-
-<img src="https://img.shields.io/badge/ONEPERSONAI-AUTONOMOUS_AI_SYSTEMS-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
-
-</a>
-
-<br/><br/>
-
-```text
-                ONEPERSONAI
-                     │
-       ┌─────────────┼─────────────┐
-       ▼             ▼             ▼
-      🧠 AI        ⚙️ AUTO       ☁️ CLOUD
-       │             │             │
-       ▼             ▼             ▼
-    Agents        Workflows      Deploy
-       │             │             │
-       └─────────────┼─────────────┘
-                     ▼
-              🚀 DIGITAL PRODUCTS
-```
-
-</div>
-
----
-
-# 🚀 FEATURED BUILDS
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🧠 OnePersonAI
-
-<img src="https://img.shields.io/badge/AI-36BCF7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AUTOMATION-8B5CF6?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://onepersonai.in">
-<img src="https://img.shields.io/badge/OPEN-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 📄 KBFixer
-
-<img src="https://img.shields.io/badge/DOCUMENT-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEBASSEMBLY-00C853?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://kbfixer.onepersonai.in">
-<img src="https://img.shields.io/badge/OPEN-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🎵 OneMusic
-
-<img src="https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/MOBILE-00C853?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://github.com/AkshatRaj00">
-<img src="https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-## 🚑 Jeev Sahay
-
-<img src="https://img.shields.io/badge/EMERGENCY-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ACCESS-FF5E14?style=for-the-badge"/>
-
-<br/><br/>
-
-<a href="https://jeevsahay.in">
-<img src="https://img.shields.io/badge/OPEN-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🔬 PRODUCT PIPELINE
-
-```mermaid
-flowchart LR
-
-    A["💡 IDEA"]
-    B["🧩 PROTOTYPE"]
-    C["🤖 AI / LOGIC"]
-    D["⚙️ ENGINEERING"]
-    E["🧪 TESTING"]
-    F["☁️ DEPLOY"]
-    G["📡 REAL USERS"]
-    H["🔄 ITERATE"]
-
-    A --> B --> C --> D --> E --> F --> G --> H --> B
-```
-
----
-
-# 🌐 DIGITAL SYSTEM MAP
-
-```mermaid
-graph TD
-
-    AK["⚡ AKSHAT RAJ"]
-
-    AK --> AI["🧠 AI SYSTEMS"]
-    AK --> DEV["⚙️ SOFTWARE"]
-    AK --> CLOUD["☁️ CLOUD"]
-    AK --> SEC["🔐 SECURITY"]
-    AK --> PRODUCTS["🚀 PRODUCTS"]
-
-    AI --> LLM["LLMs"]
-    AI --> AGENTS["Agents"]
-    AI --> RAG["RAG"]
-    AI --> CV["Computer Vision"]
-
-    DEV --> BACKEND["Backend"]
-    DEV --> FRONTEND["Frontend"]
-    DEV --> MOBILE["Mobile"]
-
-    CLOUD --> AWS["AWS"]
-    CLOUD --> DOCKER["Docker"]
-    CLOUD --> LINUX["Linux"]
-    CLOUD --> CICD["CI/CD"]
-
-    SEC --> HARDEN["Hardening"]
-    SEC --> TOOLS["Security Tools"]
-
-    PRODUCTS --> OPA["OnePersonAI"]
-    PRODUCTS --> KBF["KBFixer"]
-    PRODUCTS --> OM["OneMusic"]
-    PRODUCTS --> JS["Jeev Sahay"]
-```
-
----
-
-# 📡 LIVE BUILD SIGNAL
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ARCHITECT-ONLINE-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ENGINEER-ONLINE-36BCF7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AUTOMATE-ONLINE-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DEPLOY-ONLINE-FF5E14?style=for-the-badge" />
-
-<br/><br/>
-
-```text
-┌──────────────┬──────────────┐
-│  ARCHITECT   │      ✅      │
-├──────────────┼──────────────┤
-│  ENGINEER    │      ✅      │
-├──────────────┼──────────────┤
-│  AUTOMATE    │      ✅      │
-├──────────────┼──────────────┤
-│  DEPLOY      │      ✅      │
-├──────────────┼──────────────┤
-│  ITERATE     │      🔄      │
-└──────────────┴──────────────┘
-```
-
-</div>
-
----
-
-# 📊 GITHUB SIGNAL
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatRaj00&theme=react&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=react&hide_border=true" alt="Most used languages"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION FLOW
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-# 🌌 BUILD PHILOSOPHY
-
-<div align="center">
-
-```text
-        BUILD
-          │
-          ▼
-        SHIP
-          │
-          ▼
-      AUTOMATE
-          │
-          ▼
-       OBSERVE
-          │
-          ▼
-       ITERATE
-          │
-          └───────────────↺
-```
-
-<br/>
-
-### `build();`
-
-### `ship();`
-
-### `automate();`
-
-### `repeat();`
-
-<br/>
-
-> **Build less noise. Ship more signal.**
-
-</div>
-
----
-
-# 📡 CONNECT
+<!-- =========================================================
+     AKSHAT RAJ | PREMIUM GITHUB PROFILE
+     Repository: AkshatRaj00/AkshatRaj00
+     ========================================================= -->
 
 <div align="center">
 
 <a href="https://github.com/AkshatRaj00">
-<img src="https://img.shields.io/badge/GITHUB-AkshatRaj00-181717?style=for-the-badge&logo=github"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,45:101D3A,100:6D28D9&height=230&section=header&text=AKSHAT%20RAJ&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20ENGINEERING%20%7C%20SOFTWARE%20DEVELOPMENT%20%7C%20OPEN%20SOURCE&descAlignY=60&descSize=13&animation=fadeIn" alt="Akshat Raj animated header"/>
 </a>
 
-<a href="https://akshat-raj-portfolio-lfy7.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-LIVE-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://onepersonai.in">
-<img src="https://img.shields.io/badge/ONEPERSONAI-EXPLORE-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:akshatgyan2004@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+useful+AI-powered+software;Engineering+ideas+into+working+products;Exploring+AI%2C+automation+%26+backend+systems;Learning+in+public.+Building+with+purpose." alt="Animated typing introduction"/>
 </a>
 
 <br/><br/>
 
+<a href="https://onepersonai.in">
+  <img src="https://img.shields.io/badge/OnePersonAI-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="OnePersonAI website"/>
+</a>
+<a href="https://akshat-raj-portfolio-lfy7.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio"/>
+</a>
+<a href="https://github.com/AkshatRaj00?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub repositories"/>
+</a>
+
+<br/><br/>
+
+*Computer Science student building software at the intersection of AI, automation, and practical engineering.*
+
+</div>
+
+---
+
+## `01` — About Me
+
+```text
+Name       Akshat Raj
+Focus      AI Engineering · Software Development
+Interests  Applied AI · Backend Systems · Automation
+Approach   Learn → Build → Test → Improve → Ship
+Goal       Build useful products and contribute to open source
+```
+
+I'm a Computer Science & Engineering student interested in turning technical ideas into practical software. I enjoy experimenting with AI-powered applications, building developer tools, exploring backend architecture, and contributing to open-source projects.
+
+- Building and improving real-world software projects.
+- Exploring machine learning, NLP, computer vision, and AI applications.
+- Learning about reliable APIs, software architecture, and automation.
+- Improving through hands-on development and open-source collaboration.
+
+> My philosophy: Build things that work. Understand why they work. Keep making them better.
+
+## `02` — Engineering Mindset
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A["💡 Idea"] --> B["🔍 Research"]
+    B --> C["🏗️ Design"]
+    C --> D["⚙️ Build"]
+    D --> E["🧪 Test"]
+    E --> F{"Works?"}
+    F -- "No" --> G["🐛 Debug"]
+    G --> D
+    F -- "Yes" --> H["🚀 Ship"]
+    H --> I["📈 Improve"]
+    I --> B
+
+    classDef start fill:#172554,stroke:#22D3EE,color:#FFFFFF
+    classDef process fill:#111827,stroke:#6366F1,color:#FFFFFF
+    classDef decision fill:#3B0764,stroke:#C084FC,color:#FFFFFF
+    class A,H start
+    class B,C,D,E,G,I process
+    class F decision
+```
+
+</div>
+
+I aim to focus on working implementations, clear architecture, meaningful tests, and maintainable code—not just attractive demos.
+
+## `03` — Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css&perline=7" alt="Programming languages"/>
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb,mysql&perline=7" alt="Web and backend technologies"/>
+
+### AI, Data & Computer Vision
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&perline=7" alt="AI and computer vision tools"/>
+
+### Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,arduino&perline=6" alt="Developer tools"/>
+
+</div>
+
+**Current direction:** Strengthening Python, AI/ML fundamentals, backend development, software testing, and open-source engineering.
+
+*The icons represent technologies I work with or explore; proficiency varies by technology.*
+
+## `04` — Selected Projects
+
+<div align="center">
+
+<a href="https://github.com/AkshatRaj00/NeuroBreak-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshatRaj00&repo=NeuroBreak-AI&theme=tokyonight&hide_border=true" alt="NeuroBreak AI repository"/>
+</a>
+<a href="https://github.com/AkshatRaj00/Heart-diseaseprediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshatRaj00&repo=Heart-diseaseprediction&theme=tokyonight&hide_border=true" alt="Heart disease prediction repository"/>
+</a>
+<a href="https://github.com/AkshatRaj00/spam-detector">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkshatRaj00&repo=spam-detector&theme=tokyonight&hide_border=true" alt="Spam detector repository"/>
+</a>
+
+</div>
+
+### Other engineering projects
+
+| Project | Focus |
+|---|---|
+| **OnePersonAI** | Personal AI assistant and AI-powered software experiments |
+| **KBFixer** | Browser-based file utility and compression |
+| **OneMusic** | Music-focused application and web experience |
+| **Cutout Studio** | Image background-removal utility |
+| **GitPatch** | AI-assisted code and document workflow experiments |
+| **OmniPrice** | Multi-store product discovery and price-comparison concept |
+
+Explore the [GitHub repositories](https://github.com/AkshatRaj00?tab=repositories) for source code, current implementations, and project-specific documentation.
+
+*Project descriptions are summaries; check each repository for its current features, implementation status, and setup instructions.*
+
+## `05` — System Architecture
+
+An example of how I approach an AI-powered application. The actual architecture depends on the project.
+
+<div align="center">
+
+```mermaid
+flowchart TB
+    U["👤 User"] --> UI["Frontend / User Interface"]
+    UI --> API["Backend API"]
+    API --> V["Input Validation"]
+    V --> L["Application Logic"]
+    L --> AI["AI / ML Inference"]
+    L <--> DB[("Database")]
+    AI --> R["Result Processing"]
+    R --> API
+    API --> UI
+    UI --> U
+
+    classDef client fill:#172554,stroke:#22D3EE,color:#FFFFFF
+    classDef backend fill:#111827,stroke:#6366F1,color:#FFFFFF
+    classDef intelligence fill:#3B0764,stroke:#C084FC,color:#FFFFFF
+    classDef storage fill:#064E3B,stroke:#34D399,color:#FFFFFF
+
+    class U,UI client
+    class API,V,L,R backend
+    class AI intelligence
+    class DB storage
+```
+
+</div>
+
+**Engineering priorities**
+
+- Clear boundaries between the frontend, API, business logic, and data layer.
+- Input validation and meaningful error handling.
+- Secure configuration and environment-variable management.
+- Tests for important behavior and edge cases.
+- Documentation that helps another developer run the project.
+
+## `06` — Development Workflow
+
+<div align="center">
+
+```mermaid
+flowchart LR
+    A["Issue / Idea"] --> B["Branch"]
+    B --> C["Implement"]
+    C --> D["Run Tests"]
+    D --> E{"Checks Pass?"}
+    E -- "No" --> F["Fix & Retest"]
+    F --> C
+    E -- "Yes" --> G["Commit"]
+    G --> H["Pull Request"]
+    H --> I["Review & Merge"]
+
+    classDef action fill:#111827,stroke:#22D3EE,color:#FFFFFF
+    classDef check fill:#3B0764,stroke:#C084FC,color:#FFFFFF
+
+    class A,B,C,D,F,G,H,I action
+    class E check
+```
+
+</div>
+
+My goal is to make contributions understandable, reproducible, and easy to review. I value focused changes, clear commit messages, and tests that demonstrate the intended behavior.
+
+## `07` — GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AkshatRaj00&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatRaj00&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages"/>
+
+<br/>
+
+<img width="95%" src="https://streak-stats.demolab.com?user=AkshatRaj00&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatRaj00&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+## `08` — Open Source
+
+I am interested in contributing to projects where I can understand the codebase, reproduce issues, write focused fixes, and help improve reliability.
+
+My preferred contribution workflow:
+
+1. Understand the issue and expected behavior.
+2. Reproduce the problem with a minimal example.
+3. Trace the relevant implementation.
+4. Write a focused fix and regression test.
+5. Run relevant tests and document the result.
+6. Submit a clear pull request.
+
+[Explore my repositories and contributions →](https://github.com/AkshatRaj00)
+
+## `09` — Beyond the Code
+
+- **Curiosity:** Explore how systems work beneath the interface.
+- **Consistency:** Improve through small, practical steps.
+- **Ownership:** Understand the code before claiming a solution.
+- **Collaboration:** Share useful context and welcome constructive reviews.
+- **Quality:** Prefer maintainable solutions over unnecessary complexity.
+
+## `10` — Connect
+
+<div align="center">
+
+<a href="https://github.com/AkshatRaj00">
+  <img src="https://img.shields.io/badge/GitHub-AkshatRaj00-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://onepersonai.in">
+  <img src="https://img.shields.io/badge/OnePersonAI-Website-111827?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="OnePersonAI"/>
+</a>
+<a href="https://akshat-raj-portfolio-lfy7.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://x.com/AkshatRaj00_">
-<img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x"/>
+  <img src="https://img.shields.io/badge/X-Follow-111827?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-
 <a href="https://dev.to/akshatraj00">
-<img src="https://img.shields.io/badge/DEV.TO-READ-0A0A0A?style=for-the-badge&logo=devdotto"/>
+  <img src="https://img.shields.io/badge/DEV-Community-111827?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
 </a>
-
 <a href="https://www.kaggle.com/akshatraj12">
-<img src="https://img.shields.io/badge/KAGGLE-PROFILE-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
-
-<a href="https://nest.owasp.org/members/AkshatRaj00">
-<img src="https://img.shields.io/badge/OWASP-NEST-F80000?style=for-the-badge&logo=owasp"/>
+  <img src="https://img.shields.io/badge/Kaggle-Profile-111827?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=36BCF7&center=true&vCenter=true&width=750&lines=AI+%E2%80%A2+AUTOMATION+%E2%80%A2+CLOUD;IDEA+%E2%86%92+SYSTEM+%E2%86%92+PRODUCT;BUILDING+THE+NEXT+SYSTEM;ONE+PERSON.+ONE+VISION.+ONEPERSONAI." alt="Animated closing message"/>
+For collaboration, technical discussions, or project inquiries:
 
-<br/><br/>
+**[akshatgyan2004@gmail.com](mailto:akshatgyan2004@gmail.com)**
 
-### ⚡ `ONE PERSON :: FULL STACK :: IDEA → DEPLOY`
+<br/>
 
-</div>
+*Open to learning, building, and meaningful open-source collaboration.*
 
----
+<br/>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:1D4ED8,100:06B6D4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:101D3A,100:080B16&height=120&section=footer" width="100%" alt="Animated footer"/>
 
 </div>
+
+<!-- End of profile README -->
